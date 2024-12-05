@@ -3,7 +3,7 @@ import json
 import time
 import csv
 
-def search_repos(query, topic, language_searched, max_results=1000, filename="repo_info.csv", start_page=1, sort_by="stars", order="asc"):
+def search_repos(query, topic, language_searched, max_results=1000, filename="repo_info.csv", start_page=1, sort_by="stars", order="desc"):
     """Searches GitHub repositories based on a query string and writes results to a CSV file.
 
     Args:
@@ -97,7 +97,7 @@ ai - done by stars (desc + asc) and most recently updated (updated desc)
 scraper- done by stars (desc + asc) and most recently updated (updated desc)
 crawler-done by stars (desc + asc) and most recently updated (updated desc)
 web- done by stars (desc+asc) and most recently updated (updated desc)
-framework - done by stars(asc) and most recently updated (updated desc)
+framework - done by stars(desc+asc) and most recently updated (updated desc)
 
 
 """
