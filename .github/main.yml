@@ -1,0 +1,22 @@
+name: SonarQube Analysis
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  sonar-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          java-version: '11'
+      - name: Build and Analyze with SonarQube Scanner
+        uses: SonarSource/sonar-scanner-action@latest
+        env:
+          SONAR_TOKEN: ${{ secrets.sqa_c167aa8b0e07e3d95f4e8364c53be993fb4d27c6 }}
+          SONAR_HOST_URL: http://localhost:9000
