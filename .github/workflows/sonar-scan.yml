@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: '11'
-      - name: Build and Analyze with SonarQube Scanner
+      - name: SonarQube Scan
         uses: SonarSource/sonar-scanner-action@latest
         env:
           SONAR_TOKEN: ${{ secrets.sqa_c167aa8b0e07e3d95f4e8364c53be993fb4d27c6 }}

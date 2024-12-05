@@ -16336,3 +16336,1103 @@ mxersion-ai/MLWCAI-web-crawler-ai-,"An simple ai that we made for a few experime
 sun-hwang/ai-driven-shorts-generator,Very Vary Shorts Generator using ChatGPT4 and Diffusion,https://github.com/sun-hwang/ai-driven-shorts-generator,2,0,web,python,updated,desc
 UlmerMan/django-mqtt-api,A api written in django to interface with mqtt,https://github.com/UlmerMan/django-mqtt-api,2,0,web,python,updated,desc
 dewo1357/DJANGO_POS,POS (Point of Sale) adalah lokasi transaksi penjualan atau pembelian. Sistem POS mencakup perangkat keras dan perangkat lunak untuk memudahkan dan merekam transaksi bisnis di titik penjualan. ,https://github.com/dewo1357/DJANGO_POS,2,0,web,python,updated,desc
+django/django,The Web framework for perfectionists with deadlines.,https://github.com/django/django,81319,31901,framework,python,updated,desc
+fastapi/fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",https://github.com/fastapi/fastapi,78325,6701,framework,python,updated,desc
+scrapy/scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",https://github.com/scrapy/scrapy,53394,10592,framework,python,updated,desc
+run-llama/llama_index,LlamaIndex is a data framework for your LLM applications,https://github.com/run-llama/llama_index,37147,5333,framework,python,updated,desc
+QuivrHQ/quivr,"Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",https://github.com/QuivrHQ/quivr,36818,3599,framework,python,updated,desc
+python-telegram-bot/python-telegram-bot,We have made you a wrapper you can't refuse,https://github.com/python-telegram-bot/python-telegram-bot,26465,5356,framework,python,updated,desc
+Textualize/textual,The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.,https://github.com/Textualize/textual,25850,800,framework,python,updated,desc
+jina-ai/serve,☁️ Build multimodal AI applications with cloud-native stack,https://github.com/jina-ai/serve,21161,2215,framework,python,updated,desc
+reflex-dev/reflex,🕸️ Web apps in pure Python 🐍,https://github.com/reflex-dev/reflex,20535,1184,framework,python,updated,desc
+sanic-org/sanic, Accelerate your web app development  | Build fast. Run fast.,https://github.com/sanic-org/sanic,18127,1553,framework,python,updated,desc
+caronc/apprise,Apprise - Push Notifications that work with just about every platform!,https://github.com/caronc/apprise,12120,423,framework,python,updated,desc
+falconry/falcon,"The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.",https://github.com/falconry/falcon,9540,947,framework,python,updated,desc
+graphql-python/graphene,GraphQL framework for Python,https://github.com/graphql-python/graphene,8107,827,framework,python,updated,desc
+sensepost/objection,📱 objection - runtime mobile exploration,https://github.com/sensepost/objection,7613,859,framework,python,updated,desc
+SerpentAI/SerpentAI,Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!,https://github.com/SerpentAI/SerpentAI,6794,788,framework,python,updated,desc
+vibora-io/vibora,"Fast, asynchronous and elegant Python web framework.",https://github.com/vibora-io/vibora,5663,304,framework,python,updated,desc
+kernc/backtesting.py,:mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.,https://github.com/kernc/backtesting.py,5604,1082,framework,python,updated,desc
+qilingframework/qiling,A True Instrumentable Binary Emulation Framework,https://github.com/qilingframework/qiling,5196,746,framework,python,updated,desc
+adap/flower,Flower: A Friendly Federated AI Framework,https://github.com/adap/flower,5194,891,framework,python,updated,desc
+nameko/nameko,Python framework for building microservices,https://github.com/nameko/nameko,4715,471,framework,python,updated,desc
+pyrogram/pyrogram,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",https://github.com/pyrogram/pyrogram,4434,1432,framework,python,updated,desc
+byt3bl33d3r/MITMf,Framework for Man-In-The-Middle attacks,https://github.com/byt3bl33d3r/MITMf,3576,1057,framework,python,updated,desc
+abhiTronix/vidgear,A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:,https://github.com/abhiTronix/vidgear,3397,255,framework,python,updated,desc
+truefoundry/cognita,"RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",https://github.com/truefoundry/cognita,3360,276,framework,python,updated,desc
+Miksus/rocketry,Modern scheduling library for Python,https://github.com/Miksus/rocketry,3287,108,framework,python,updated,desc
+ehForwarderBot/ehForwarderBot,An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.,https://github.com/ehForwarderBot/ehForwarderBot,2957,273,framework,python,updated,desc
+YiVal/YiVal,Your Automatic Prompt Engineering Assistant for GenAI Applications,https://github.com/YiVal/YiVal,2661,429,framework,python,updated,desc
+wonderworks-software/PyFlow,Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow,https://github.com/wonderworks-software/PyFlow,2570,327,framework,python,updated,desc
+yandex/yandex-tank,Load and performance benchmark tool,https://github.com/yandex/yandex-tank,2463,280,framework,python,updated,desc
+cheshire-cat-ai/core,Production ready AI agent framework,https://github.com/cheshire-cat-ai/core,2411,328,framework,python,updated,desc
+lorien/grab,Web Scraping Framework,https://github.com/lorien/grab,2395,274,framework,python,updated,desc
+SylphAI-Inc/AdalFlow,AdalFlow: The library to build & auto-optimize LLM applications.,https://github.com/SylphAI-Inc/AdalFlow,2265,204,framework,python,updated,desc
+kurogai/100-redteam-projects,Projects for security students,https://github.com/kurogai/100-redteam-projects,2242,342,framework,python,updated,desc
+quokkaproject/quokka,LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`,https://github.com/quokkaproject/quokka,2238,447,framework,python,updated,desc
+MasoniteFramework/masonite,The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ,https://github.com/MasoniteFramework/masonite,2218,126,framework,python,updated,desc
+blankly-finance/blankly,"🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.",https://github.com/blankly-finance/blankly,2160,271,framework,python,updated,desc
+nolar/kopf,A Python framework to write Kubernetes operators in just a few lines of code,https://github.com/nolar/kopf,2154,163,framework,python,updated,desc
+bhavsec/reconspider,"🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.",https://github.com/bhavsec/reconspider,2101,326,framework,python,updated,desc
+edtechre/pybroker,Algorithmic Trading in Python with Machine Learning,https://github.com/edtechre/pybroker,2095,265,framework,python,updated,desc
+Neoteroi/BlackSheep,Fast ASGI web framework for Python,https://github.com/Neoteroi/BlackSheep,1897,78,framework,python,updated,desc
+run-llama/llama_deploy,Deploy your agentic worfklows to production,https://github.com/run-llama/llama_deploy,1866,195,framework,python,updated,desc
+owtf/owtf,"Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp",https://github.com/owtf/owtf,1825,472,framework,python,updated,desc
+ContinualAI/avalanche,Avalanche: an End-to-End Library for Continual Learning based on PyTorch.,https://github.com/ContinualAI/avalanche,1797,293,framework,python,updated,desc
+cirospaciari/socketify.py,Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3,https://github.com/cirospaciari/socketify.py,1456,56,framework,python,updated,desc
+awtkns/fastapi-crudrouter,A dynamic FastAPI router that automatically creates CRUD routes for your models,https://github.com/awtkns/fastapi-crudrouter,1421,158,framework,python,updated,desc
+om-ai-lab/OmAgent,A Hub for the State-of-the-art Language and Multimodal Agents,https://github.com/om-ai-lab/OmAgent,1366,107,framework,python,updated,desc
+jfkirk/tensorrec,A TensorFlow recommendation algorithm and framework in Python.,https://github.com/jfkirk/tensorrec,1276,221,framework,python,updated,desc
+nsacyber/WALKOFF,"A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber",https://github.com/nsacyber/WALKOFF,1207,222,framework,python,updated,desc
+danielcardeenas/whatsapp-framework,⚗️Whatsapp python api,https://github.com/danielcardeenas/whatsapp-framework,1165,360,framework,python,updated,desc
+Maplemx/Agently,[AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI Agent using plugins instead of rebuild a whole new agent,https://github.com/Maplemx/Agently,1157,136,framework,python,updated,desc
+ivopetiz/algotrading,Algorithmic trading framework for cryptocurrencies.,https://github.com/ivopetiz/algotrading,1135,178,framework,python,updated,desc
+LOoLzeC/ASU,facebook hacking toolkit,https://github.com/LOoLzeC/ASU,1090,228,framework,python,updated,desc
+LazyAGI/LazyLLM,Easiest and laziest way for  building multi-agent LLMs applications.,https://github.com/LazyAGI/LazyLLM,1029,68,framework,python,updated,desc
+Rikj000/MoniGoMani,Isn't that what we all want? Our money to go many? Well that's what this framework/strategy hopes to do for you! By giving you & HyperOpt a lot of signals to alter the weights from.,https://github.com/Rikj000/MoniGoMani,1015,155,framework,python,updated,desc
+parthsarthi03/raptor,The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval,https://github.com/parthsarthi03/raptor,993,138,framework,python,updated,desc
+Bogdanp/molten,"A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.",https://github.com/Bogdanp/molten,977,34,framework,python,updated,desc
+zalando-incubator/kopf,A Python framework to write Kubernetes operators in just few lines of code.,https://github.com/zalando-incubator/kopf,969,87,framework,python,updated,desc
+carefree0910/carefree-drawboard,🎨 Infinite Drawboard in Python,https://github.com/carefree0910/carefree-drawboard,952,129,framework,python,updated,desc
+ApeWorX/ape,"The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals",https://github.com/ApeWorX/ape,900,135,framework,python,updated,desc
+williamSYSU/TextGAN-PyTorch,TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.,https://github.com/williamSYSU/TextGAN-PyTorch,893,204,framework,python,updated,desc
+certsocietegenerale/fame,FAME Automates Malware Evaluation,https://github.com/certsocietegenerale/fame,864,168,framework,python,updated,desc
+hyperdiv/hyperdiv,Build reactive web UIs in Python,https://github.com/hyperdiv/hyperdiv,853,24,framework,python,updated,desc
+TurboGears/tg2,"Python web framework with full-stack layer implemented on top of a microframework core with support for SQL DBMS, MongoDB and Pluggable Applications",https://github.com/TurboGears/tg2,806,78,framework,python,updated,desc
+mobilityhouse/ocpp,Python implementation of the Open Charge Point Protocol (OCPP).,https://github.com/mobilityhouse/ocpp,800,322,framework,python,updated,desc
+GraiaProject/Ariadne,一个优雅且完备的 Python QQ 自动化框架，基于 Mirai API HTTP v2。    Powered by Graia Project.,https://github.com/GraiaProject/Ariadne,756,45,framework,python,updated,desc
+thuiar/MMSA,MMSA is a unified framework for Multimodal Sentiment Analysis.,https://github.com/thuiar/MMSA,706,110,framework,python,updated,desc
+Tishka17/aiogram_dialog,GUI framework on top of aiogram,https://github.com/Tishka17/aiogram_dialog,706,103,framework,python,updated,desc
+krish-adi/barfi,Python Flow Based Programming environment that provides a graphical programming environment.,https://github.com/krish-adi/barfi,675,73,framework,python,updated,desc
+hidet-org/hidet,"An open-source efficient deep learning framework/compiler, written in python.",https://github.com/hidet-org/hidet,658,53,framework,python,updated,desc
+rek7/fireELF,fireELF - Fileless Linux Malware Framework,https://github.com/rek7/fireELF,657,112,framework,python,updated,desc
+robswc/tradingview-webhooks-bot,a framework 🏗 for trading with tradingview webhooks!,https://github.com/robswc/tradingview-webhooks-bot,648,192,framework,python,updated,desc
+tanmoysrt/lumi,Lumi is an nano framework to convert your python functions into a REST API without any extra headache.,https://github.com/tanmoysrt/lumi,634,21,framework,python,updated,desc
+Neuraxio/Neuraxle,"The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other libraries, frameworks and MLOps environments.",https://github.com/Neuraxio/Neuraxle,608,62,framework,python,updated,desc
+Ananto30/zero,Zero: A simple and fast Python RPC framework,https://github.com/Ananto30/zero,571,35,framework,python,updated,desc
+szymonmaszke/torchlayers,Shape and dimension inference (Keras-like) for PyTorch layers and neural networks,https://github.com/szymonmaszke/torchlayers,569,46,framework,python,updated,desc
+OpenMDAO/OpenMDAO,OpenMDAO repository. ,https://github.com/OpenMDAO/OpenMDAO,564,254,framework,python,updated,desc
+zhudotexe/kani,kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023),https://github.com/zhudotexe/kani,559,30,framework,python,updated,desc
+THUwangcy/ReChorus,“Chorus” of recommendation models: a light and flexible PyTorch framework for Top-K recommendation.,https://github.com/THUwangcy/ReChorus,559,93,framework,python,updated,desc
+amfoss/cms,"This project is outdated and replaced by root. Archived for historical reference. Club Management System of amFOSS, powered by CMS",https://github.com/amfoss/cms,551,26,framework,python,updated,desc
+reddit/baseplate.py,reddit's python service framework,https://github.com/reddit/baseplate.py,543,175,framework,python,updated,desc
+unkn0wnh4ckr/hackers-tool-kit,Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lite its hackers-tool-kit just not as big and messy to see updates check on my instagram @tuf_unkn0wn or if there are any problems message me on instagram,https://github.com/unkn0wnh4ckr/hackers-tool-kit,537,126,framework,python,updated,desc
+mmasana/FACIL,Framework for Analysis of Class-Incremental Learning with 12 state-of-the-art methods and 3 baselines.,https://github.com/mmasana/FACIL,529,100,framework,python,updated,desc
+lona-web-org/lona,Write responsive web apps in full python,https://github.com/lona-web-org/lona,527,28,framework,python,updated,desc
+google/langfun,OO for LLMs,https://github.com/google/langfun,515,37,framework,python,updated,desc
+Crypto-toolbox/bitex,Crypto-currency Exchange API Framework,https://github.com/Crypto-toolbox/bitex,484,134,framework,python,updated,desc
+minos-framework/minos-python,🐍 Minos is a framework which helps you create reactive microservices in Python,https://github.com/minos-framework/minos-python,465,40,framework,python,updated,desc
+shramos/polymorph,Polymorph is a real-time network packet manipulation framework with support for almost all existing protocols,https://github.com/shramos/polymorph,462,58,framework,python,updated,desc
+pypr/pysph,A framework for Smoothed Particle Hydrodynamics in Python,https://github.com/pypr/pysph,460,138,framework,python,updated,desc
+Digital-Sapphire/PyUpdater,Pyinstaller auto-update library,https://github.com/Digital-Sapphire/PyUpdater,460,93,framework,python,updated,desc
+GraiaProject/Application,"一个设计精巧, 协议实现完备的, 基于 mirai-api-http 的即时聊天软件自动化框架.",https://github.com/GraiaProject/Application,438,63,framework,python,updated,desc
+bodywork-ml/bodywork-core,ML pipeline orchestration and model deployments on Kubernetes.,https://github.com/bodywork-ml/bodywork-core,435,22,framework,python,updated,desc
+roniemartinez/dude,dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators,https://github.com/roniemartinez/dude,426,19,framework,python,updated,desc
+awslabs/aws-serverless-data-lake-framework,"Enterprise-grade, production-hardened, serverless data lake on AWS",https://github.com/awslabs/aws-serverless-data-lake-framework,423,140,framework,python,updated,desc
+EricSteinberger/PokerRL,Framework for Multi-Agent Deep Reinforcement Learning in Poker,https://github.com/EricSteinberger/PokerRL,417,88,framework,python,updated,desc
+operand/agency,A fast and minimal framework for building agent-integrated systems,https://github.com/operand/agency,417,21,framework,python,updated,desc
+frankkramer-lab/MIScnn,A framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning,https://github.com/frankkramer-lab/MIScnn,407,116,framework,python,updated,desc
+dinoperovic/django-salesman,Headless e-commerce framework for Django and Wagtail.,https://github.com/dinoperovic/django-salesman,395,49,framework,python,updated,desc
+PUNCH-Cyber/stoq,An open source framework for enterprise level automated analysis.,https://github.com/PUNCH-Cyber/stoq,393,55,framework,python,updated,desc
+greppo-io/greppo,Build & deploy geospatial applications quick and easy.,https://github.com/greppo-io/greppo,392,34,framework,python,updated,desc
+TeamDefronix/Cyberonix,Cyberonix is a complete resource hub for Cyber Security Community. Our aim is to make this tool an 1 stop solution for all the Hackers out there to get resources of various topics in Cyber Security. We will keep updating this tool & adding new & updated resources on the go.,https://github.com/TeamDefronix/Cyberonix,383,80,framework,python,updated,desc
+django/django,The Web framework for perfectionists with deadlines.,https://github.com/django/django,81319,31901,framework,python,updated,desc
+fastapi/fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",https://github.com/fastapi/fastapi,78325,6701,framework,python,updated,desc
+scrapy/scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",https://github.com/scrapy/scrapy,53394,10592,framework,python,updated,desc
+run-llama/llama_index,LlamaIndex is a data framework for your LLM applications,https://github.com/run-llama/llama_index,37147,5333,framework,python,updated,desc
+QuivrHQ/quivr,"Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",https://github.com/QuivrHQ/quivr,36818,3599,framework,python,updated,desc
+python-telegram-bot/python-telegram-bot,We have made you a wrapper you can't refuse,https://github.com/python-telegram-bot/python-telegram-bot,26465,5356,framework,python,updated,desc
+Textualize/textual,The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.,https://github.com/Textualize/textual,25850,800,framework,python,updated,desc
+jina-ai/serve,☁️ Build multimodal AI applications with cloud-native stack,https://github.com/jina-ai/serve,21161,2215,framework,python,updated,desc
+reflex-dev/reflex,🕸️ Web apps in pure Python 🐍,https://github.com/reflex-dev/reflex,20535,1184,framework,python,updated,desc
+sanic-org/sanic, Accelerate your web app development  | Build fast. Run fast.,https://github.com/sanic-org/sanic,18127,1553,framework,python,updated,desc
+caronc/apprise,Apprise - Push Notifications that work with just about every platform!,https://github.com/caronc/apprise,12120,423,framework,python,updated,desc
+falconry/falcon,"The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.",https://github.com/falconry/falcon,9540,947,framework,python,updated,desc
+graphql-python/graphene,GraphQL framework for Python,https://github.com/graphql-python/graphene,8107,827,framework,python,updated,desc
+sensepost/objection,📱 objection - runtime mobile exploration,https://github.com/sensepost/objection,7613,859,framework,python,updated,desc
+SerpentAI/SerpentAI,Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!,https://github.com/SerpentAI/SerpentAI,6794,788,framework,python,updated,desc
+vibora-io/vibora,"Fast, asynchronous and elegant Python web framework.",https://github.com/vibora-io/vibora,5663,304,framework,python,updated,desc
+kernc/backtesting.py,:mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.,https://github.com/kernc/backtesting.py,5604,1082,framework,python,updated,desc
+qilingframework/qiling,A True Instrumentable Binary Emulation Framework,https://github.com/qilingframework/qiling,5196,746,framework,python,updated,desc
+adap/flower,Flower: A Friendly Federated AI Framework,https://github.com/adap/flower,5194,891,framework,python,updated,desc
+nameko/nameko,Python framework for building microservices,https://github.com/nameko/nameko,4715,471,framework,python,updated,desc
+pyrogram/pyrogram,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",https://github.com/pyrogram/pyrogram,4434,1432,framework,python,updated,desc
+byt3bl33d3r/MITMf,Framework for Man-In-The-Middle attacks,https://github.com/byt3bl33d3r/MITMf,3576,1057,framework,python,updated,desc
+abhiTronix/vidgear,A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:,https://github.com/abhiTronix/vidgear,3397,255,framework,python,updated,desc
+truefoundry/cognita,"RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",https://github.com/truefoundry/cognita,3360,276,framework,python,updated,desc
+Miksus/rocketry,Modern scheduling library for Python,https://github.com/Miksus/rocketry,3287,108,framework,python,updated,desc
+ehForwarderBot/ehForwarderBot,An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.,https://github.com/ehForwarderBot/ehForwarderBot,2957,273,framework,python,updated,desc
+YiVal/YiVal,Your Automatic Prompt Engineering Assistant for GenAI Applications,https://github.com/YiVal/YiVal,2661,429,framework,python,updated,desc
+wonderworks-software/PyFlow,Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow,https://github.com/wonderworks-software/PyFlow,2570,327,framework,python,updated,desc
+yandex/yandex-tank,Load and performance benchmark tool,https://github.com/yandex/yandex-tank,2463,280,framework,python,updated,desc
+cheshire-cat-ai/core,Production ready AI agent framework,https://github.com/cheshire-cat-ai/core,2411,328,framework,python,updated,desc
+lorien/grab,Web Scraping Framework,https://github.com/lorien/grab,2395,274,framework,python,updated,desc
+SylphAI-Inc/AdalFlow,AdalFlow: The library to build & auto-optimize LLM applications.,https://github.com/SylphAI-Inc/AdalFlow,2265,204,framework,python,updated,desc
+kurogai/100-redteam-projects,Projects for security students,https://github.com/kurogai/100-redteam-projects,2242,342,framework,python,updated,desc
+quokkaproject/quokka,LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`,https://github.com/quokkaproject/quokka,2238,447,framework,python,updated,desc
+MasoniteFramework/masonite,The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ,https://github.com/MasoniteFramework/masonite,2218,126,framework,python,updated,desc
+blankly-finance/blankly,"🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.",https://github.com/blankly-finance/blankly,2160,271,framework,python,updated,desc
+nolar/kopf,A Python framework to write Kubernetes operators in just a few lines of code,https://github.com/nolar/kopf,2154,163,framework,python,updated,desc
+bhavsec/reconspider,"🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.",https://github.com/bhavsec/reconspider,2101,326,framework,python,updated,desc
+edtechre/pybroker,Algorithmic Trading in Python with Machine Learning,https://github.com/edtechre/pybroker,2095,265,framework,python,updated,desc
+Neoteroi/BlackSheep,Fast ASGI web framework for Python,https://github.com/Neoteroi/BlackSheep,1897,78,framework,python,updated,desc
+run-llama/llama_deploy,Deploy your agentic worfklows to production,https://github.com/run-llama/llama_deploy,1866,195,framework,python,updated,desc
+owtf/owtf,"Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp",https://github.com/owtf/owtf,1825,472,framework,python,updated,desc
+ContinualAI/avalanche,Avalanche: an End-to-End Library for Continual Learning based on PyTorch.,https://github.com/ContinualAI/avalanche,1797,293,framework,python,updated,desc
+cirospaciari/socketify.py,Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3,https://github.com/cirospaciari/socketify.py,1456,56,framework,python,updated,desc
+awtkns/fastapi-crudrouter,A dynamic FastAPI router that automatically creates CRUD routes for your models,https://github.com/awtkns/fastapi-crudrouter,1421,158,framework,python,updated,desc
+om-ai-lab/OmAgent,A Hub for the State-of-the-art Language and Multimodal Agents,https://github.com/om-ai-lab/OmAgent,1366,107,framework,python,updated,desc
+jfkirk/tensorrec,A TensorFlow recommendation algorithm and framework in Python.,https://github.com/jfkirk/tensorrec,1276,221,framework,python,updated,desc
+nsacyber/WALKOFF,"A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber",https://github.com/nsacyber/WALKOFF,1207,222,framework,python,updated,desc
+danielcardeenas/whatsapp-framework,⚗️Whatsapp python api,https://github.com/danielcardeenas/whatsapp-framework,1165,360,framework,python,updated,desc
+Maplemx/Agently,[AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI Agent using plugins instead of rebuild a whole new agent,https://github.com/Maplemx/Agently,1157,136,framework,python,updated,desc
+ivopetiz/algotrading,Algorithmic trading framework for cryptocurrencies.,https://github.com/ivopetiz/algotrading,1135,178,framework,python,updated,desc
+LOoLzeC/ASU,facebook hacking toolkit,https://github.com/LOoLzeC/ASU,1090,228,framework,python,updated,desc
+LazyAGI/LazyLLM,Easiest and laziest way for  building multi-agent LLMs applications.,https://github.com/LazyAGI/LazyLLM,1029,68,framework,python,updated,desc
+Rikj000/MoniGoMani,Isn't that what we all want? Our money to go many? Well that's what this framework/strategy hopes to do for you! By giving you & HyperOpt a lot of signals to alter the weights from.,https://github.com/Rikj000/MoniGoMani,1015,155,framework,python,updated,desc
+parthsarthi03/raptor,The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval,https://github.com/parthsarthi03/raptor,993,138,framework,python,updated,desc
+Bogdanp/molten,"A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.",https://github.com/Bogdanp/molten,977,34,framework,python,updated,desc
+zalando-incubator/kopf,A Python framework to write Kubernetes operators in just few lines of code.,https://github.com/zalando-incubator/kopf,969,87,framework,python,updated,desc
+carefree0910/carefree-drawboard,🎨 Infinite Drawboard in Python,https://github.com/carefree0910/carefree-drawboard,952,129,framework,python,updated,desc
+ApeWorX/ape,"The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals",https://github.com/ApeWorX/ape,900,135,framework,python,updated,desc
+williamSYSU/TextGAN-PyTorch,TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.,https://github.com/williamSYSU/TextGAN-PyTorch,893,204,framework,python,updated,desc
+certsocietegenerale/fame,FAME Automates Malware Evaluation,https://github.com/certsocietegenerale/fame,864,168,framework,python,updated,desc
+hyperdiv/hyperdiv,Build reactive web UIs in Python,https://github.com/hyperdiv/hyperdiv,853,24,framework,python,updated,desc
+TurboGears/tg2,"Python web framework with full-stack layer implemented on top of a microframework core with support for SQL DBMS, MongoDB and Pluggable Applications",https://github.com/TurboGears/tg2,806,78,framework,python,updated,desc
+mobilityhouse/ocpp,Python implementation of the Open Charge Point Protocol (OCPP).,https://github.com/mobilityhouse/ocpp,800,322,framework,python,updated,desc
+GraiaProject/Ariadne,一个优雅且完备的 Python QQ 自动化框架，基于 Mirai API HTTP v2。    Powered by Graia Project.,https://github.com/GraiaProject/Ariadne,756,45,framework,python,updated,desc
+thuiar/MMSA,MMSA is a unified framework for Multimodal Sentiment Analysis.,https://github.com/thuiar/MMSA,706,110,framework,python,updated,desc
+Tishka17/aiogram_dialog,GUI framework on top of aiogram,https://github.com/Tishka17/aiogram_dialog,706,103,framework,python,updated,desc
+krish-adi/barfi,Python Flow Based Programming environment that provides a graphical programming environment.,https://github.com/krish-adi/barfi,675,73,framework,python,updated,desc
+hidet-org/hidet,"An open-source efficient deep learning framework/compiler, written in python.",https://github.com/hidet-org/hidet,658,53,framework,python,updated,desc
+rek7/fireELF,fireELF - Fileless Linux Malware Framework,https://github.com/rek7/fireELF,657,112,framework,python,updated,desc
+robswc/tradingview-webhooks-bot,a framework 🏗 for trading with tradingview webhooks!,https://github.com/robswc/tradingview-webhooks-bot,648,192,framework,python,updated,desc
+tanmoysrt/lumi,Lumi is an nano framework to convert your python functions into a REST API without any extra headache.,https://github.com/tanmoysrt/lumi,634,21,framework,python,updated,desc
+Neuraxio/Neuraxle,"The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other libraries, frameworks and MLOps environments.",https://github.com/Neuraxio/Neuraxle,608,62,framework,python,updated,desc
+Ananto30/zero,Zero: A simple and fast Python RPC framework,https://github.com/Ananto30/zero,571,35,framework,python,updated,desc
+szymonmaszke/torchlayers,Shape and dimension inference (Keras-like) for PyTorch layers and neural networks,https://github.com/szymonmaszke/torchlayers,569,46,framework,python,updated,desc
+OpenMDAO/OpenMDAO,OpenMDAO repository. ,https://github.com/OpenMDAO/OpenMDAO,564,254,framework,python,updated,desc
+zhudotexe/kani,kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023),https://github.com/zhudotexe/kani,559,30,framework,python,updated,desc
+THUwangcy/ReChorus,“Chorus” of recommendation models: a light and flexible PyTorch framework for Top-K recommendation.,https://github.com/THUwangcy/ReChorus,559,93,framework,python,updated,desc
+amfoss/cms,"This project is outdated and replaced by root. Archived for historical reference. Club Management System of amFOSS, powered by CMS",https://github.com/amfoss/cms,551,26,framework,python,updated,desc
+reddit/baseplate.py,reddit's python service framework,https://github.com/reddit/baseplate.py,543,175,framework,python,updated,desc
+unkn0wnh4ckr/hackers-tool-kit,Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lite its hackers-tool-kit just not as big and messy to see updates check on my instagram @tuf_unkn0wn or if there are any problems message me on instagram,https://github.com/unkn0wnh4ckr/hackers-tool-kit,537,126,framework,python,updated,desc
+mmasana/FACIL,Framework for Analysis of Class-Incremental Learning with 12 state-of-the-art methods and 3 baselines.,https://github.com/mmasana/FACIL,529,100,framework,python,updated,desc
+lona-web-org/lona,Write responsive web apps in full python,https://github.com/lona-web-org/lona,527,28,framework,python,updated,desc
+google/langfun,OO for LLMs,https://github.com/google/langfun,515,37,framework,python,updated,desc
+Crypto-toolbox/bitex,Crypto-currency Exchange API Framework,https://github.com/Crypto-toolbox/bitex,484,134,framework,python,updated,desc
+minos-framework/minos-python,🐍 Minos is a framework which helps you create reactive microservices in Python,https://github.com/minos-framework/minos-python,465,40,framework,python,updated,desc
+shramos/polymorph,Polymorph is a real-time network packet manipulation framework with support for almost all existing protocols,https://github.com/shramos/polymorph,462,58,framework,python,updated,desc
+pypr/pysph,A framework for Smoothed Particle Hydrodynamics in Python,https://github.com/pypr/pysph,460,138,framework,python,updated,desc
+Digital-Sapphire/PyUpdater,Pyinstaller auto-update library,https://github.com/Digital-Sapphire/PyUpdater,460,93,framework,python,updated,desc
+GraiaProject/Application,"一个设计精巧, 协议实现完备的, 基于 mirai-api-http 的即时聊天软件自动化框架.",https://github.com/GraiaProject/Application,438,63,framework,python,updated,desc
+bodywork-ml/bodywork-core,ML pipeline orchestration and model deployments on Kubernetes.,https://github.com/bodywork-ml/bodywork-core,435,22,framework,python,updated,desc
+roniemartinez/dude,dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators,https://github.com/roniemartinez/dude,426,19,framework,python,updated,desc
+awslabs/aws-serverless-data-lake-framework,"Enterprise-grade, production-hardened, serverless data lake on AWS",https://github.com/awslabs/aws-serverless-data-lake-framework,423,140,framework,python,updated,desc
+EricSteinberger/PokerRL,Framework for Multi-Agent Deep Reinforcement Learning in Poker,https://github.com/EricSteinberger/PokerRL,417,88,framework,python,updated,desc
+operand/agency,A fast and minimal framework for building agent-integrated systems,https://github.com/operand/agency,417,21,framework,python,updated,desc
+frankkramer-lab/MIScnn,A framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning,https://github.com/frankkramer-lab/MIScnn,407,116,framework,python,updated,desc
+dinoperovic/django-salesman,Headless e-commerce framework for Django and Wagtail.,https://github.com/dinoperovic/django-salesman,395,49,framework,python,updated,desc
+PUNCH-Cyber/stoq,An open source framework for enterprise level automated analysis.,https://github.com/PUNCH-Cyber/stoq,393,55,framework,python,updated,desc
+greppo-io/greppo,Build & deploy geospatial applications quick and easy.,https://github.com/greppo-io/greppo,392,34,framework,python,updated,desc
+TeamDefronix/Cyberonix,Cyberonix is a complete resource hub for Cyber Security Community. Our aim is to make this tool an 1 stop solution for all the Hackers out there to get resources of various topics in Cyber Security. We will keep updating this tool & adding new & updated resources on the go.,https://github.com/TeamDefronix/Cyberonix,383,80,framework,python,updated,desc
+treethought/flask-assistant,Framework for Building Virtual Assistants with Dialogflow and python,https://github.com/treethought/flask-assistant,380,100,framework,python,updated,desc
+kakaoenterprise/JORLDY,Repository for Open Source Reinforcement Learning Framework JORLDY,https://github.com/kakaoenterprise/JORLDY,363,49,framework,python,updated,desc
+Skiller9090/Lucifer,"A Powerful Penetration Tool For Automating Penetration Tasks Such As Local Privilege Escalation, Enumeration, Exfiltration and More... Use Or Build Automation Modules To Speed Up Your Cyber Security Life",https://github.com/Skiller9090/Lucifer,361,77,framework,python,updated,desc
+keiffster/program-y,"Python 3.x based AIML 2.0 Chatbot interpreter, framework, related programs and knowledge files",https://github.com/keiffster/program-y,349,135,framework,python,updated,desc
+avocado-framework/avocado,"Avocado is a set of tools and libraries to help with automated testing. One can call it a test framework with benefits. Native tests are written in Python and they follow the unittest pattern, but any executable can serve as a test.",https://github.com/avocado-framework/avocado,346,343,framework,python,updated,desc
+matrix1001/welpwn,💖CTF pwn framework.,https://github.com/matrix1001/welpwn,341,40,framework,python,updated,desc
+RamezIssac/django-erp-framework,"A Django based framework to create diverse business solutions, equipped with a reporting engine with charts, widgets system , a custom admin site and other goodies",https://github.com/RamezIssac/django-erp-framework,336,89,framework,python,updated,desc
+astorfi/CNTK-World,:earth_americas: Simple and ready-to-use deep learning examples for the Microsoft Cognitive Toolkit (CNTK),https://github.com/astorfi/CNTK-World,330,38,framework,python,updated,desc
+dymmond/esmerald,"Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application",https://github.com/dymmond/esmerald,323,18,framework,python,updated,desc
+circuits/circuits,circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture.,https://github.com/circuits/circuits,311,56,framework,python,updated,desc
+stefanhoelzl/vue.py,Pythonic Vue.js,https://github.com/stefanhoelzl/vue.py,311,20,framework,python,updated,desc
+PhoenixC2/PhoenixC2,Command & Control-Framework created for collaboration in python3,https://github.com/PhoenixC2/PhoenixC2,310,46,framework,python,updated,desc
+AliRn76/panther,Fast & Friendly Web Framework For Building Async APIs With Python 3.10+,https://github.com/AliRn76/panther,306,19,framework,python,updated,desc
+MozillaSecurity/grizzly,A cross-platform browser fuzzing framework,https://github.com/MozillaSecurity/grizzly,304,37,framework,python,updated,desc
+jazzband/django-permission,[Not maintained] An enhanced permission system which support object permission in Django,https://github.com/jazzband/django-permission,303,50,framework,python,updated,desc
+dod-cyber-crime-center/DC3-MWCP,"DC3 Malware Configuration Parser (DC3-MWCP) is a framework for parsing configuration information from malware. The information extracted from malware includes items such as addresses, passwords, filenames, and mutex names.",https://github.com/dod-cyber-crime-center/DC3-MWCP,303,59,framework,python,updated,desc
+yandexdataschool/AgentNet,Deep Reinforcement Learning library for humans,https://github.com/yandexdataschool/AgentNet,301,71,framework,python,updated,desc
+da2vin/Sasila,一个灵活、友好的爬虫框架,https://github.com/da2vin/Sasila,297,71,framework,python,updated,desc
+feedly/transfer-nlp,NLP library designed for reproducible experimentation management,https://github.com/feedly/transfer-nlp,292,16,framework,python,updated,desc
+phonegapX/alphahunter,异步事件驱动/量化交易/做市系统/策略研究/策略回测,https://github.com/phonegapX/alphahunter,291,120,framework,python,updated,desc
+mindflayer/python-mocket,"a socket mock framework - for all kinds of socket animals, web-clients included",https://github.com/mindflayer/python-mocket,284,43,framework,python,updated,desc
+Esser50K/EvilTwinFramework,A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities,https://github.com/Esser50K/EvilTwinFramework,280,56,framework,python,updated,desc
+apache/dubbo-python,The python Implementation For Apache Dubbo.,https://github.com/apache/dubbo-python,271,91,framework,python,updated,desc
+The404Hacking/websploit,Websploit is an advanced MITM framework.,https://github.com/The404Hacking/websploit,270,59,framework,python,updated,desc
+adaptive-intelligent-robotics/QDax,Accelerated Quality-Diversity,https://github.com/adaptive-intelligent-robotics/QDax,270,46,framework,python,updated,desc
+pystiche/pystiche,Framework for Neural Style Transfer (NST) built upon PyTorch,https://github.com/pystiche/pystiche,270,28,framework,python,updated,desc
+enlite-ai/maze,Maze Applied Reinforcement Learning Framework,https://github.com/enlite-ai/maze,265,12,framework,python,updated,desc
+asphalt-framework/asphalt,Asphalt application framework (core),https://github.com/asphalt-framework/asphalt,257,12,framework,python,updated,desc
+Healthlane-Technologies/Zango,Django meta-framework for building enterprise-ready custom business applications 💼 ✨,https://github.com/Healthlane-Technologies/Zango,254,55,framework,python,updated,desc
+CybercentreCanada/assemblyline,AssemblyLine 4: File triage and malware analysis,https://github.com/CybercentreCanada/assemblyline,251,15,framework,python,updated,desc
+sktime/skpro,"A unified framework for tabular probabilistic regression, time-to-event prediction, and probability distributions in python",https://github.com/sktime/skpro,250,46,framework,python,updated,desc
+vita-epfl/UniTraj,"A Unified Framework for scalable Vehicle Trajectory Prediction, ECCV 2024",https://github.com/vita-epfl/UniTraj,246,27,framework,python,updated,desc
+Tribler/py-ipv8,Python implementation of Tribler's IPv8 p2p-networking layer,https://github.com/Tribler/py-ipv8,231,47,framework,python,updated,desc
+opendilab/treevalue,"Here are the most awesome tree structure computing solutions, make your life easier. （这里有目前性能最优的树形结构计算解决方案）",https://github.com/opendilab/treevalue,230,3,framework,python,updated,desc
+reframe-hpc/reframe,A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.,https://github.com/reframe-hpc/reframe,227,104,framework,python,updated,desc
+adidas/lakehouse-engine,"The Lakehouse Engine is a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.",https://github.com/adidas/lakehouse-engine,226,38,framework,python,updated,desc
+biocypher/biocypher,A unifying framework for biomedical research knowledge graphs,https://github.com/biocypher/biocypher,225,31,framework,python,updated,desc
+thesanjeetc/SiriControl-System,Control anything with Siri voice commands.,https://github.com/thesanjeetc/SiriControl-System,223,46,framework,python,updated,desc
+kkinder/puepy,Python+Webassembly Frontend Framework via PyScript,https://github.com/kkinder/puepy,221,10,framework,python,updated,desc
+SirFroweey/PyDark,PyDark is a 2D and Online Multiplayer video game framework written on-top of Python and PyGame.,https://github.com/SirFroweey/PyDark,216,24,framework,python,updated,desc
+naver/claf,CLaF: Open-Source Clova Language Framework,https://github.com/naver/claf,215,37,framework,python,updated,desc
+99sbr/fastapi-template,"Completely Scalable FastAPI based template for Machine Learning, Deep Learning and any other software project which wants to use Fast API as an API framework.",https://github.com/99sbr/fastapi-template,215,45,framework,python,updated,desc
+bomquote/transistor,"Transistor, a Python web scraping framework for intelligent use cases.",https://github.com/bomquote/transistor,213,21,framework,python,updated,desc
+ZeroIntensity/view.py,The Batteries-Detachable Web Framework,https://github.com/ZeroIntensity/view.py,211,15,framework,python,updated,desc
+autogoal/autogoal,A Python framework for program synthesis with a focus on Automated Machine Learning.,https://github.com/autogoal/autogoal,209,64,framework,python,updated,desc
+felipevolpone/ray,a framework that helps you to deliver well-designed python APIs ,https://github.com/felipevolpone/ray,205,9,framework,python,updated,desc
+Mattdl/CLsurvey,"Continual Hyperparameter Selection Framework. Compares 11 state-of-the-art Lifelong Learning methods and  4 baselines. Official Codebase of ""A continual learning survey: Defying forgetting in classification tasks."" in  IEEE TPAMI.",https://github.com/Mattdl/CLsurvey,198,24,framework,python,updated,desc
+kalaspuff/tomodachi,"💻 Microservice lib designed to ease service building using Python and asyncio, with ready to use support for  HTTP + WS, AWS SNS+SQS, RabbitMQ / AMQP, middlewares, envelopes, logging, lifecycles. Extend to GraphQL, protobuf, etc.",https://github.com/kalaspuff/tomodachi,193,24,framework,python,updated,desc
+tiangolo/uvicorn-gunicorn-starlette-docker,Docker image with Uvicorn managed by Gunicorn for high-performance Starlette web applications in Python with performance auto-tuning.,https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker,187,12,framework,python,updated,desc
+abhiTronix/deffcode,A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡,https://github.com/abhiTronix/deffcode,187,4,framework,python,updated,desc
+armbian/documentation,Armbian Linux Documentation,https://github.com/armbian/documentation,186,176,framework,python,updated,desc
+betcode-org/flumine,flūmine - Betting trading framework,https://github.com/betcode-org/flumine,177,60,framework,python,updated,desc
+IOActive/laf,"This project intends to provide a series of tools to craft, parse, send, analyze and crack a set of LoRaWAN packets in order to audit or pentest the security of a LoraWAN infrastructure.",https://github.com/IOActive/laf,176,34,framework,python,updated,desc
+in1nit1t/uniref,A Python coding framework for analyzing Unity applications.,https://github.com/in1nit1t/uniref,175,0,framework,python,updated,desc
+Neutree/c_cpp_project_framework, CMake build system( framework)  with kconfig support for C/CPP projects,https://github.com/Neutree/c_cpp_project_framework,170,39,framework,python,updated,desc
+pyecore/pyecore,A Python(nic) Implementation of EMF/Ecore (Eclipse Modeling Framework),https://github.com/pyecore/pyecore,167,46,framework,python,updated,desc
+mlcommons/GaNDLF,"A generalizable application framework for segmentation, regression, and classification using PyTorch",https://github.com/mlcommons/GaNDLF,166,80,framework,python,updated,desc
+dtiesling/flask-muck,"🧹 Flask REST framework for generating CRUD APIs and OpenAPI specs in the SQLAlchemy, Marshmallow/Pydantic application stack.",https://github.com/dtiesling/flask-muck,165,7,framework,python,updated,desc
+k0retux/fuddly,Fuzzing and Data Manipulation Framework (for GNU/Linux),https://github.com/k0retux/fuddly,162,44,framework,python,updated,desc
+volfpeter/htmy,"Async, pure-Python rendering engine.",https://github.com/volfpeter/htmy,162,0,framework,python,updated,desc
+GraiaProject/Avilla,The next-gen framework for IM development. Powered by Graia Project.,https://github.com/GraiaProject/Avilla,160,14,framework,python,updated,desc
+chrisby/torchMTL,A lightweight module for Multi-Task Learning in pytorch.,https://github.com/chrisby/torchMTL,159,20,framework,python,updated,desc
+plutobell/teelebot,Python实现的Telegram Bot机器人框架，具有插件系统，插件支持热更新和热装载,https://github.com/plutobell/teelebot,157,27,framework,python,updated,desc
+sensepost/dwn,d(ockerp)wn - a docker pwn tool manager,https://github.com/sensepost/dwn,155,22,framework,python,updated,desc
+hydrogram/hydrogram,"Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions. ",https://github.com/hydrogram/hydrogram,147,32,framework,python,updated,desc
+malleum-inc/canari3,Canari v3 - next gen Maltego framework for rapid remote and local transform development,https://github.com/malleum-inc/canari3,144,33,framework,python,updated,desc
+hal9ai/hal9,Hal9 — Create and Share Generative Apps,https://github.com/hal9ai/hal9,144,28,framework,python,updated,desc
+ugr-sail/sinergym,Gym environment for building simulation and control using reinforcement learning,https://github.com/ugr-sail/sinergym,136,37,framework,python,updated,desc
+woohyunjng/discord.py-components,An unofficial third-party library of discord.py for discord components.,https://github.com/woohyunjng/discord.py-components,128,43,framework,python,updated,desc
+hivesolutions/appier,Joyful Python Web App development,https://github.com/hivesolutions/appier,127,22,framework,python,updated,desc
+apg-intel/ipv6tools,IPv6Tools is a robust modular framework that enables the ability to visually audit an IPv6 enabled network.,https://github.com/apg-intel/ipv6tools,126,19,framework,python,updated,desc
+ihandmine/aioscpy,An asyncio + aiolibs crawler  imitate scrapy framework,https://github.com/ihandmine/aioscpy,125,10,framework,python,updated,desc
+d-Rickyy-b/pastepwn,Python framework to scrape Pastebin pastes and analyze them,https://github.com/d-Rickyy-b/pastepwn,122,66,framework,python,updated,desc
+hchasestevens/monkeys,A strongly-typed genetic programming framework for Python,https://github.com/hchasestevens/monkeys,122,14,framework,python,updated,desc
+Ambro17/slackify,Slackify: Lightweight framework to quickly develop modern Slack bots 🚀,https://github.com/Ambro17/slackify,120,10,framework,python,updated,desc
+pyfyre/pyfyre,🐍🔥 The Python web frontend framework for building reactive web user interfaces. ✨,https://github.com/pyfyre/pyfyre,120,9,framework,python,updated,desc
+bessagroup/f3dasm,Framework for Data-Driven Design & Analysis of Structures & Materials (F3DASM),https://github.com/bessagroup/f3dasm,117,31,framework,python,updated,desc
+hsvgbkhgbv/SQDDPG,This is a framework for the research on multi-agent reinforcement learning and the implementation of the experiments in the paper titled by ''Shapley Q-value: A Local Reward Approach to Solve Global Reward Games''.,https://github.com/hsvgbkhgbv/SQDDPG,115,42,framework,python,updated,desc
+vahidk/TensorflowFramework,An extendable framework for training neural network models using TensorFlow.,https://github.com/vahidk/TensorflowFramework,113,37,framework,python,updated,desc
+unkn0wnh4ckr/htk-lite,htk-lite is a lighter version of hackers-tool-kit but it still has the same hacking ability as hackers-tool-kit,https://github.com/unkn0wnh4ckr/htk-lite,113,23,framework,python,updated,desc
+amaralibey/OpenVPRLab,An Open-source Deep Learning Framework for Visual Place Recognition,https://github.com/amaralibey/OpenVPRLab,113,10,framework,python,updated,desc
+KCarretto/Arsenal,Extensible Red Team Framework,https://github.com/KCarretto/Arsenal,111,39,framework,python,updated,desc
+Cyber-Dioxide/Cyber-Sploit,A framework like a metasploit containg a variety of modules for pentesting or ethical hacking. This repo willl be updated and new modules will be added time to time.,https://github.com/Cyber-Dioxide/Cyber-Sploit,111,12,framework,python,updated,desc
+guiqiqi/leaf,一个开发友好、功能完备的开源微信商城框架,https://github.com/guiqiqi/leaf,110,11,framework,python,updated,desc
+PyPlanet/PyPlanet,:rocket: PyPlanet is the next-gen Server Controller for ManiaPlanet (v4+) and Trackmania. Using Python3 and AsyncIO.,https://github.com/PyPlanet/PyPlanet,110,50,framework,python,updated,desc
+RTLion-Framework/RTLion,Multipurpose RTL-SDR Framework for RTL2832 based DVB-T receivers,https://github.com/RTLion-Framework/RTLion,106,6,framework,python,updated,desc
+python-telegram-bot/ptbcontrib,Community-based extensions for the python-telegram-bot library.,https://github.com/python-telegram-bot/ptbcontrib,104,41,framework,python,updated,desc
+miquido/draive,Framework for building AI oriented applications. The project was made by Miquido: https://www.miquido.com/,https://github.com/miquido/draive,104,20,framework,python,updated,desc
+phausamann/sklearn-xarray,Metadata-aware machine learning.,https://github.com/phausamann/sklearn-xarray,103,12,framework,python,updated,desc
+SSmJaE/PepperBot,"An intuitive multi-platform bot framework, easily forward messages among platforms, support QQ, WeChat, Telegram. 一个符合直觉的跨社交平台机器人框架，轻松地在平台间传递消息，支持QQ、微信、Telegram",https://github.com/SSmJaE/PepperBot,101,15,framework,python,updated,desc
+sharkbound/PythonTwitchBotFramework,asynchronous twitchbot framework made in pure python,https://github.com/sharkbound/PythonTwitchBotFramework,100,26,framework,python,updated,desc
+caikit/caikit,Caikit is an AI toolkit that enables users to manage models through a set of developer friendly APIs.,https://github.com/caikit/caikit,99,68,framework,python,updated,desc
+sdc17/UPop,[ICML 2023] UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers.,https://github.com/sdc17/UPop,99,5,framework,python,updated,desc
+iTeam-S/Ampalibe,"Ampalibe is a lightweight Python framework for building Facebook Messenger bots faster. It provides a new concept, it manages webhooks, processes data sent by Facebook and provides API Messenger with advanced functions such as payload management, item length, and more.",https://github.com/iTeam-S/Ampalibe,98,10,framework,python,updated,desc
+video-db/Director,AI video agents framework for next-gen video interactions and workflows.,https://github.com/video-db/Director,98,15,framework,python,updated,desc
+ericmiguel/missil,Simple FastAPI declarative endpoint-level access control.,https://github.com/ericmiguel/missil,98,0,framework,python,updated,desc
+strongbugman/ant_nest,"Simple, clear and fast Web Crawler framework build on python3.6+, powered by asyncio.",https://github.com/strongbugman/ant_nest,95,19,framework,python,updated,desc
+sloev/python-lambdarest,Flask like web framework for AWS Lambda,https://github.com/sloev/python-lambdarest,94,23,framework,python,updated,desc
+perfectly-balanced/PathBench,Benchmarking Platform for Classic and Learned Path Planning Algorithms.,https://github.com/perfectly-balanced/PathBench,94,19,framework,python,updated,desc
+venkywarriors/selenium_with_python,selenium with python from basic to advanced with python 3.x,https://github.com/venkywarriors/selenium_with_python,94,62,framework,python,updated,desc
+tommasocarraro/LTNtorch,"PyTorch implementation of Logic Tensor Networks, a Neural-Symbolic framework.",https://github.com/tommasocarraro/LTNtorch,93,16,framework,python,updated,desc
+akosiorek/forge,Basic experiment framework for tensorflow.,https://github.com/akosiorek/forge,92,14,framework,python,updated,desc
+pyrustic/pyrustic,Collection of lightweight Python projects that share the same policy,https://github.com/pyrustic/pyrustic,92,6,framework,python,updated,desc
+codingjoe/joeflow, The workflow automation framework for machines with heart,https://github.com/codingjoe/joeflow,89,24,framework,python,updated,desc
+raysect/source,The main source repository for the Raysect project.,https://github.com/raysect/source,89,24,framework,python,updated,desc
+nanmu42/robomasterpy,DJI RoboMaster Python SDK and programing framework | 大疆机甲大师的Python SDK和编程框架,https://github.com/nanmu42/robomasterpy,89,12,framework,python,updated,desc
+qiskit-community/qiskit-qec,Qiskit quantum error correction framework,https://github.com/qiskit-community/qiskit-qec,88,35,framework,python,updated,desc
+orsinium-labs/walnats,🌰 Nats-powered event-driven background jobs and microservices framework for Python.,https://github.com/orsinium-labs/walnats,82,2,framework,python,updated,desc
+codingforentrepreneurs/full-stack-python,Learn how to build web apps in pure Python using Reflex. ,https://github.com/codingforentrepreneurs/full-stack-python,81,29,framework,python,updated,desc
+vectara/py-vectara-agentic,"A python library for creating AI assistants with Vectara, using Agentic RAG",https://github.com/vectara/py-vectara-agentic,81,1,framework,python,updated,desc
+virink/awd_auto_attack_framework,AWD 自动化攻击框架,https://github.com/virink/awd_auto_attack_framework,80,27,framework,python,updated,desc
+armadillica/dillo,Free and open web platform created to support crowd-driven content.,https://github.com/armadillica/dillo,79,14,framework,python,updated,desc
+microhomie/microhomie,MicroPython implementation of the Homie MQTT convention for IoT.,https://github.com/microhomie/microhomie,79,18,framework,python,updated,desc
+briancappello/flask-unchained,The quickest and easiest way to build large web apps and APIs with Flask,https://github.com/briancappello/flask-unchained,79,8,framework,python,updated,desc
+ML-TANGO/TANGO,public repo for TANGO (Target Aware No-code neural network Generation and Operation framework) ,https://github.com/ML-TANGO/TANGO,78,20,framework,python,updated,desc
+cogitare-ai/cogitare,"🔥 Cogitare - A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python ",https://github.com/cogitare-ai/cogitare,77,11,framework,python,updated,desc
+cmd410/OrigamiBot,A pythonic Telegram bot API library,https://github.com/cmd410/OrigamiBot,76,5,framework,python,updated,desc
+da2vin/fetchman,fetchman is a simple crawler system/简单好用的爬虫框架,https://github.com/da2vin/fetchman,76,21,framework,python,updated,desc
+Claus1/unigui,Universal GUI Framework and Protocol  (Python),https://github.com/Claus1/unigui,75,4,framework,python,updated,desc
+Blazemeter/apiritif,Apiritif: API testing framework in Python,https://github.com/Blazemeter/apiritif,75,18,framework,python,updated,desc
+ekkx/yaylib,"nanameue, Inc. - Yay!（イェイ）| API ライブラリ 🛠️",https://github.com/ekkx/yaylib,74,7,framework,python,updated,desc
+swistakm/graceful,Elegant Python REST toolkit built on top of falcon,https://github.com/swistakm/graceful,74,12,framework,python,updated,desc
+TotallyNotRobots/CloudBot,"CloudBot - The simple, fast, expandable, open-source Python IRC Bot!",https://github.com/TotallyNotRobots/CloudBot,73,41,framework,python,updated,desc
+prashanth-sams/python-appium-framework,Complete Python Appium framework in 360 degree,https://github.com/prashanth-sams/python-appium-framework,73,40,framework,python,updated,desc
+ContinualAI/avalanche-rl,Avalanche fork adding RL support,https://github.com/ContinualAI/avalanche-rl,70,11,framework,python,updated,desc
+hyperdiv/hyperdiv-apps,Example Hyperdiv apps,https://github.com/hyperdiv/hyperdiv-apps,69,7,framework,python,updated,desc
+dpgmediamagazines/django-arctic,Django Arctic is a framework that simplifies the creation of custom content management systems.,https://github.com/dpgmediamagazines/django-arctic,68,21,framework,python,updated,desc
+AngelSecurityTeam/RevoltShing,FRAMEWORK REVOLTSHING v.2 . HTTP SERVER FOR PHISHING,https://github.com/AngelSecurityTeam/RevoltShing,68,26,framework,python,updated,desc
+cool-RR/GarlicSim,Pythonic framework for working with simulations.,https://github.com/cool-RR/GarlicSim,68,12,framework,python,updated,desc
+wfondrie/depthcharge,A deep learning toolkit for mass spectrometry,https://github.com/wfondrie/depthcharge,67,19,framework,python,updated,desc
+Bomberus/LayoutX,Python Tk declarative UI framework with reactive data binding,https://github.com/Bomberus/LayoutX,67,2,framework,python,updated,desc
+ra1nb0rn/avain,A Modular Framework for the Automated Vulnerability Analysis in IP-based Networks,https://github.com/ra1nb0rn/avain,65,9,framework,python,updated,desc
+certsocietegenerale/fame_modules,Community modules for FAME,https://github.com/certsocietegenerale/fame_modules,65,41,framework,python,updated,desc
+crazy-canux/awesome-testing,Software Testing for QA.,https://github.com/crazy-canux/awesome-testing,64,21,framework,python,updated,desc
+turbulette/turbulette,"😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs",https://github.com/turbulette/turbulette,63,4,framework,python,updated,desc
+vortezwohl/CEO,CEO is an intuitive and modular AI agent framework for task automation.,https://github.com/vortezwohl/CEO,63,12,framework,python,updated,desc
+splunk/addonfactory-ucc-generator,A framework to generate UI-based Splunk Add-ons.,https://github.com/splunk/addonfactory-ucc-generator,62,24,framework,python,updated,desc
+chineseluo/opensourcetest,OpenSourceTest自动化测试框架，帮您创建自动化测试项目架构，使用python灵活的编写文档化用例,https://github.com/chineseluo/opensourcetest,62,8,framework,python,updated,desc
+bendikMichal/pyretro-gui,PyRetro-Gui (also pyretrogui) is a gui framework built using pygame-ce to develop nostalgic looking apps.,https://github.com/bendikMichal/pyretro-gui,61,2,framework,python,updated,desc
+reorx/torext,[WORKING ON] The missing tornado mate,https://github.com/reorx/torext,61,8,framework,python,updated,desc
+estin/pomp,Screen scraping and web crawling framework,https://github.com/estin/pomp,60,10,framework,python,updated,desc
+almarklein/asgineer,A really thin ASGI web framework,https://github.com/almarklein/asgineer,60,5,framework,python,updated,desc
+Tert0/fastapi-framework,"A FastAPI Framework for things like Database, Redis, Logging, JWT Authentication, Rate Limits and Sessions",https://github.com/Tert0/fastapi-framework,60,10,framework,python,updated,desc
+gmr/rejected,rejected is a consumer framework for RabbitMQ,https://github.com/gmr/rejected,58,19,framework,python,updated,desc
+DigitalPhonetics/adviser,ADvISER is a flexible framework to encourage task-oriented dialog system research & development ,https://github.com/DigitalPhonetics/adviser,58,34,framework,python,updated,desc
+baidu/ARK,Development framework of intelligent operation,https://github.com/baidu/ARK,58,18,framework,python,updated,desc
+RLOpensource/tensorflow_RL,,https://github.com/RLOpensource/tensorflow_RL,57,8,framework,python,updated,desc
+python-bale-bot/python-bale-bot,An API wrapper for Bale written in Python.,https://github.com/python-bale-bot/python-bale-bot,57,7,framework,python,updated,desc
+home-assistant/micropython-home-assistant,:snake: Home Assistant client for MicroPython,https://github.com/home-assistant/micropython-home-assistant,57,14,framework,python,updated,desc
+witblack/G3nius-Tools-Sploit,"G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular!",https://github.com/witblack/G3nius-Tools-Sploit,57,6,framework,python,updated,desc
+dlshriver/dnnv,A Framework for Deep Neural Network Verification,https://github.com/dlshriver/dnnv,56,18,framework,python,updated,desc
+MarkParker5/STARK,S.T.A.R.K. - Speech And Text Algorithmic Recognition Kit,https://github.com/MarkParker5/STARK,56,4,framework,python,updated,desc
+dhhruv/Chrome-Dino-Runner,🐱‍🐉 A Replica of the hidden Dinosaur Game from Chrome Browser Offline mode build using Python and PyGame.,https://github.com/dhhruv/Chrome-Dino-Runner,56,103,framework,python,updated,desc
+Amzza0x00/Zerooo-Exploitation-Framework,漏洞利用框架,https://github.com/Amzza0x00/Zerooo-Exploitation-Framework,54,8,framework,python,updated,desc
+rvandewater/YAIB,"🧪Yet Another ICU Benchmark: a holistic framework for the standardization of clinical prediction model experiments. Provide custom datasets, cohorts, prediction tasks, endpoints, preprocessing, and models. Paper: https://arxiv.org/abs/2306.05109",https://github.com/rvandewater/YAIB,54,9,framework,python,updated,desc
+xtream1101/scraperx,Library for scraping websites or apis at any scale,https://github.com/xtream1101/scraperx,54,11,framework,python,updated,desc
+dhhruv/YouTua,🎬 YouTua is a GUI Program to download videos/playlists from various supported sites.,https://github.com/dhhruv/YouTua,53,9,framework,python,updated,desc
+cobraframework/cobra,"A fast, flexible and simple development environment framework for Ethereum smart contract, testing and  deployment on EVM.",https://github.com/cobraframework/cobra,53,5,framework,python,updated,desc
+secxena/credcheck,Credentials Checking Framework,https://github.com/secxena/credcheck,53,6,framework,python,updated,desc
+tiboun/python-bigquery-test-kit,"BigQuery test kit is a framework written in python that allows you to be more confident in your SQL and check that they are ready to prod. Rendering SQL template is part of this framework as well if you rely, for instance, on Airflow to orchestrate your jobs and their macros.",https://github.com/tiboun/python-bigquery-test-kit,52,2,framework,python,updated,desc
+jfilter/text-classification-keras,📚 Text classification library with Keras,https://github.com/jfilter/text-classification-keras,52,11,framework,python,updated,desc
+Extensible-AI/DAGent,Build AI Agents with Your Existing Python Code!,https://github.com/Extensible-AI/DAGent,52,4,framework,python,updated,desc
+ashleysommer/sanic-plugin-toolkit,Easily create Plugins for Sanic!,https://github.com/ashleysommer/sanic-plugin-toolkit,51,9,framework,python,updated,desc
+senseta-os/senseta-base-project,"Full stack, modern web application generator. Using Flask, Docker, Swagger, automatic HTTPS and more...",https://github.com/senseta-os/senseta-base-project,51,8,framework,python,updated,desc
+K1rL3s/aliceio,🐍 Асинхронный фреймворк для разработки навыков Алисы из Яндекс.Диалогов,https://github.com/K1rL3s/aliceio,51,0,framework,python,updated,desc
+yezz123/My-Business,"Business management tool featuring accounts, invoices, partners, projects, and server 🦄",https://github.com/yezz123/My-Business,51,16,framework,python,updated,desc
+Jefino9488/FrameworkPatcher,Automated workflow to patch miui frameworks,https://github.com/Jefino9488/FrameworkPatcher,50,49,framework,python,updated,desc
+Psmths/reave,WIP Post-exploitation framework tailored for hypervisors.,https://github.com/Psmths/reave,50,12,framework,python,updated,desc
+tin-z/GDBleed,Dynamic-Static binary instrumentation framework on top of GDB,https://github.com/tin-z/GDBleed,49,3,framework,python,updated,desc
+moluwole/Bast,Simple but Elegant Web Framework,https://github.com/moluwole/Bast,48,10,framework,python,updated,desc
+7Ragnarok7/DEDMAP,A Network Automation framework focused on Cyber-Security ,https://github.com/7Ragnarok7/DEDMAP,47,6,framework,python,updated,desc
+RedhawkSDR/core-framework,"REDHAWK is a software-defined radio (SDR) framework designed to support the development, deployment, and management of real-time software radio applications",https://github.com/RedhawkSDR/core-framework,46,28,framework,python,updated,desc
+acatton/ohneio,"Parse protocols, without any I/O",https://github.com/acatton/ohneio,46,2,framework,python,updated,desc
+MIC-DKFZ/image_classification,:dart: Deep Learning Framework for Image Classification & Regression in Pytorch for Fast Experiments,https://github.com/MIC-DKFZ/image_classification,45,1,framework,python,updated,desc
+Base4Security/T3SF,Technical Tabletop Exercises Simulation Framework,https://github.com/Base4Security/T3SF,45,3,framework,python,updated,desc
+EndFramework/backendpy,Async (ASGI) Python web framework for building the backend of your project!,https://github.com/EndFramework/backendpy,45,3,framework,python,updated,desc
+cherab/core,The core source repository for the Cherab project.,https://github.com/cherab/core,45,24,framework,python,updated,desc
+zopefoundation/zope.event,"Event publishing / dispatch, used by Zope Component Architecture",https://github.com/zopefoundation/zope.event,45,16,framework,python,updated,desc
+hearot/pyrubrum,An intuitive framework for creating Telegram bots.,https://github.com/hearot/pyrubrum,44,2,framework,python,updated,desc
+Yiling-J/cacheme,Asyncio cache framework for Python,https://github.com/Yiling-J/cacheme,44,0,framework,python,updated,desc
+dgarana/vulcano,🌋 Create awesome command line applications with less effort,https://github.com/dgarana/vulcano,43,7,framework,python,updated,desc
+AdmiralGaust/bountyReconV2,Framework to automate Bug Bounty Reconnaissance,https://github.com/AdmiralGaust/bountyReconV2,42,9,framework,python,updated,desc
+smetj/wishbone,A Python framework to build composable event pipeline servers with minimal effort.,https://github.com/smetj/wishbone,42,7,framework,python,updated,desc
+dymmond/asyncz,A python scheduler that simply does the job,https://github.com/dymmond/asyncz,41,3,framework,python,updated,desc
+dymmond/lilya,Yet another ASGI toolkit that delivers,https://github.com/dymmond/lilya,41,4,framework,python,updated,desc
+anujkumar21/PWAF,Python Webdriver Automation Framework,https://github.com/anujkumar21/PWAF,40,46,framework,python,updated,desc
+forgepackages/forge,"Django packages for an opinionated, modern developer experience.",https://github.com/forgepackages/forge,39,1,framework,python,updated,desc
+Slenderman00/Grindr-Web-Access,Framework for the new grindr v4 API,https://github.com/Slenderman00/Grindr-Web-Access,39,8,framework,python,updated,desc
+AbertayMachineLearningGroup/CryptoKnight,Cryptographic Dataset Generation & Modelling Framework,https://github.com/AbertayMachineLearningGroup/CryptoKnight,39,12,framework,python,updated,desc
+wyapx/CAI,🤖 又一个 QQ 协议支持库，使用 Python 编写 Yet Another Bot Framework for Tencent QQ Written in Python,https://github.com/wyapx/CAI,39,2,framework,python,updated,desc
+vstconsulting/vstutils,Small framework for easy generates web-applications (SPA or Single Page Application).,https://github.com/vstconsulting/vstutils,39,7,framework,python,updated,desc
+BESSER-PEARL/BESSER-Bot-Framework,Design and implement chatbots in Python,https://github.com/BESSER-PEARL/BESSER-Bot-Framework,39,2,framework,python,updated,desc
+Roo7K1d/D0x-K1t-v2,"Active reconaissance, information gathering and OSINT built in a portable web application test.",https://github.com/Roo7K1d/D0x-K1t-v2,39,15,framework,python,updated,desc
+Wytamma/fasteve,A simple and feature complete REST API framework designed for speed,https://github.com/Wytamma/fasteve,39,2,framework,python,updated,desc
+nodestream-proj/nodestream,"A Declarative framework for Building, Maintaining, and Analyzing Graph Data",https://github.com/nodestream-proj/nodestream,38,11,framework,python,updated,desc
+eliabntt/GRADE-RR,GRADE: Generating Animated Dynamic Environments for Robotics Research,https://github.com/eliabntt/GRADE-RR,38,5,framework,python,updated,desc
+YunoHost/moulinette,A small Python framework meant to easily create programs with unified CLI and API.,https://github.com/YunoHost/moulinette,38,28,framework,python,updated,desc
+Scitator/catalyst-rl-framework,Catalyst.RL: A Distributed Framework for Reproducible RL Research,https://github.com/Scitator/catalyst-rl-framework,38,3,framework,python,updated,desc
+caronc/newsreap,"Usenet Framework that supports posting, indexing and retrieving",https://github.com/caronc/newsreap,38,8,framework,python,updated,desc
+frankkramer-lab/aucmedi,a framework for Automated Classification of Medical Images,https://github.com/frankkramer-lab/aucmedi,38,13,framework,python,updated,desc
+sentinella-enterprises/cyber-security-framework,"The CyberSecurity Framework (CSF for short) is a local Python3 scripting package which aims directly on Cyber Security auditing, where you can execute and create new programs for any purpuse that go under your own responsibility to fit your needs. (You can still use/extend it to fit on any unrelated needs of your own).",https://github.com/sentinella-enterprises/cyber-security-framework,38,14,framework,python,updated,desc
+burtonrj/CytoPy,A data-centric flow/mass cytometry automated analysis framework,https://github.com/burtonrj/CytoPy,38,9,framework,python,updated,desc
+epigen/MrBiomics,MrBiomics - Modules & Recipes augment Bioinformatics for Multi-Omics Analyses,https://github.com/epigen/MrBiomics,38,1,framework,python,updated,desc
+robswc/stratis,a python-based framework for creating and testing trading strategies,https://github.com/robswc/stratis,37,7,framework,python,updated,desc
+ahmetkotan/dupgee,Mini Web Framework on MicroPython (Esp8266),https://github.com/ahmetkotan/dupgee,37,1,framework,python,updated,desc
+estuardodev/TallerDjango,Taller de Django,https://github.com/estuardodev/TallerDjango,36,8,framework,python,updated,desc
+mynlp/pnmt,Pre-train support for OpenNMT (PNMT),https://github.com/mynlp/pnmt,36,5,framework,python,updated,desc
+Flangvik/HIDAAF,Python - Human Interface Device Android Attack Framework,https://github.com/Flangvik/HIDAAF,36,10,framework,python,updated,desc
+indhifarhandika/flask-mvc,Flask Simple Model-View-Controller(MVC),https://github.com/indhifarhandika/flask-mvc,35,9,framework,python,updated,desc
+osint-dev-team/osint-framework,:fork_and_knife: All-in-one OSINT-RECON Swiss Knife,https://github.com/osint-dev-team/osint-framework,35,4,framework,python,updated,desc
+AmanoTeam/duckpy,A simple Python library for searching on DuckDuckGo.,https://github.com/AmanoTeam/duckpy,35,11,framework,python,updated,desc
+neolynx/cirrina,cirrina is an opinionated asynchronous web framework based on aiohttp,https://github.com/neolynx/cirrina,35,9,framework,python,updated,desc
+SalladShooter/phyal,Quickly build websites without the hassle of HTML,https://github.com/SalladShooter/phyal,33,2,framework,python,updated,desc
+MinhVuong2000/LLMReasonCert,"Official Implementation of ACL2024 paper ""Direct Evaluation of Chain-of-Thought in Multi-hop Reasoning with Knowledge Graphs""(https://arxiv.org/abs/2402.11199).",https://github.com/MinhVuong2000/LLMReasonCert,33,7,framework,python,updated,desc
+willforde/script.module.codequick,Kodi addon framework,https://github.com/willforde/script.module.codequick,33,6,framework,python,updated,desc
+C4ssif3r/WebExploit,Web Exploit here ! advanced web hacking and hacker toolkit in your hands,https://github.com/C4ssif3r/WebExploit,33,6,framework,python,updated,desc
+firefly-cpp/NiaAML,Python automated machine learning framework.,https://github.com/firefly-cpp/NiaAML,32,12,framework,python,updated,desc
+arthurdjn/nets,"Recreating PyTorch from scratch, using Numpy. Supports FCN, CNN, RNN layers.",https://github.com/arthurdjn/nets,32,3,framework,python,updated,desc
+rickstaa/ros-gazebo-gym,"Framework for integrating ROS and Gazebo with gymnasium, streamlining the development and training of RL algorithms in realistic robot simulations.",https://github.com/rickstaa/ros-gazebo-gym,32,3,framework,python,updated,desc
+thuiar/MIntRec2.0,MIntRec2.0 is the first large-scale dataset for multimodal intent recognition and out-of-scope detection in multi-party conversations (ICLR 2024),https://github.com/thuiar/MIntRec2.0,32,3,framework,python,updated,desc
+z3z1ma/cdf,"A framework to manage data, continuously",https://github.com/z3z1ma/cdf,31,3,framework,python,updated,desc
+M4cs/DigiDuck-Framework,Framework for Digiduck Development Boards running ATTiny85 processors and micronucleus bootloader!,https://github.com/M4cs/DigiDuck-Framework,31,9,framework,python,updated,desc
+cooleydw494/codemonkeys,"A Python framework for GPT-driven automations, with an early emphasis on mass file operations.",https://github.com/cooleydw494/codemonkeys,31,0,framework,python,updated,desc
+MobileLLM/ChainStream,A Stream-based LLM Agent Framework for Continuous Context Sensing and Sharing,https://github.com/MobileLLM/ChainStream,31,3,framework,python,updated,desc
+ahmadnourallah/pysploit-framework,free exploit framework written use python language version 3.3,https://github.com/ahmadnourallah/pysploit-framework,31,13,framework,python,updated,desc
+a5kin/xentica,GPU-accelerated engine for multi-dimensional cellular automata,https://github.com/a5kin/xentica,31,3,framework,python,updated,desc
+timoniq/telegrinder,Modern visionary telegram bot framework,https://github.com/timoniq/telegrinder,31,5,framework,python,updated,desc
+discord-hero/discord-hero,"A powerful, modular and easy-to-use Discord bot framework. Batteries included!",https://github.com/discord-hero/discord-hero,31,5,framework,python,updated,desc
+Meteorix/flaskweb,An easy to start yet full-featured web framework,https://github.com/Meteorix/flaskweb,31,6,framework,python,updated,desc
+FederalLab/OpenFed,A Comprehensive and Versatile Open-Source Federated Learning Framework,https://github.com/FederalLab/OpenFed,31,3,framework,python,updated,desc
+armadillica/pillar,,https://github.com/armadillica/pillar,31,4,framework,python,updated,desc
+pypr/automan,A simple automation framework in Python,https://github.com/pypr/automan,30,8,framework,python,updated,desc
+pradeepta02/python-behave-automation-framework,Test Automation Framework Using Python and Behave BDD,https://github.com/pradeepta02/python-behave-automation-framework,30,28,framework,python,updated,desc
+RomiconEZ/llamator,Framework for testing vulnerabilities of large language models (LLM).,https://github.com/RomiconEZ/llamator,30,2,framework,python,updated,desc
+dingguanglei/jdit,Jdit is a research processing oriented framework based on pytorch. The docs is here!,https://github.com/dingguanglei/jdit,30,9,framework,python,updated,desc
+uforia/MatterBot,"MatterBot is a two-part extensible Python bot framework that provides a scheduled feed of information sources to your Mattermost channel(s), and listens in channel(s) for commands to trigger the appropriate module(s).",https://github.com/uforia/MatterBot,30,6,framework,python,updated,desc
+IAAR-Shanghai/NewsBench,[ACL 2024 Main] NewsBench: A Systematic Evaluation Framework for Assessing Editorial Capabilities of Large Language Models in Chinese Journalism,https://github.com/IAAR-Shanghai/NewsBench,29,0,framework,python,updated,desc
+cltl/pepper,VU-CLTL Pepper/Nao Application Repository (Python 2),https://github.com/cltl/pepper,29,10,framework,python,updated,desc
+LostOxygen/llm-confidentiality,Whispers in the Machine: Confidentiality in LLM-integrated Systems,https://github.com/LostOxygen/llm-confidentiality,29,3,framework,python,updated,desc
+plutobell/teelebot-plugins,teelebot官方插件仓库,https://github.com/plutobell/teelebot-plugins,29,7,framework,python,updated,desc
+um-dsrg/RUMpy,Open source image super-resolution toolbox containing various functionality for training a diverse number of state-of-the-art deep learning models. Also acts as the companion code for the MDPI Sensors journal paper titled 'The Best of Both Worlds: A Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks',https://github.com/um-dsrg/RUMpy,29,1,framework,python,updated,desc
+jizongFox/deep-clustering-toolbox,PyTorch Vision Toolbox not only for deep-clustering,https://github.com/jizongFox/deep-clustering-toolbox,29,4,framework,python,updated,desc
+Hackerfleet/hfos-legacy,Hackerfleet Operating System,https://github.com/Hackerfleet/hfos-legacy,29,4,framework,python,updated,desc
+AngelSecurityTeam/FrameDomain,FrameDomain Framework  - subdomains enumeration tool for penetration testers,https://github.com/AngelSecurityTeam/FrameDomain,28,6,framework,python,updated,desc
+dhhruv/Contactless-Attendance-System,✨ A Contactless Attendance System where your face is identified for Attendance. ,https://github.com/dhhruv/Contactless-Attendance-System,28,13,framework,python,updated,desc
+stoq/kiwi,A graphical UI framework on top of PyGTK,https://github.com/stoq/kiwi,28,23,framework,python,updated,desc
+zopefoundation/grok,Grok: Now even cavemen can use Zope 3!,https://github.com/zopefoundation/grok,28,14,framework,python,updated,desc
+memodb-io/drive-flow,Build event-driven workflows with python async functions,https://github.com/memodb-io/drive-flow,28,0,framework,python,updated,desc
+nareddyt/cs4365-task-offload-framework,"A framework for IoT devices to offload tasks to the cloud, resulting in efficient computation and decreased cloud costs.",https://github.com/nareddyt/cs4365-task-offload-framework,27,8,framework,python,updated,desc
+pytonik/pytonik,"Pytonik is a python framework built to enhance web development, also helps web developers to build more apps with fewer codes. It uses expressive architectural patterns, structured on Model View Controller (MVC), and bundles of components to reuse while deploying the framework.",https://github.com/pytonik/pytonik,27,20,framework,python,updated,desc
+cicekhayri/inspira,Inspira is a lightweight framework for building asynchronous web applications.,https://github.com/cicekhayri/inspira,27,1,framework,python,updated,desc
+anirudhramanan/plutus-algo-backtesting,Algorithmic Trading : A python framework to run backtest on stocks using your own custom algorithmic strategies,https://github.com/anirudhramanan/plutus-algo-backtesting,27,9,framework,python,updated,desc
+pyrates/roll,"Async, simple, fast: pick three! Roll is a pico framework with  performances and aesthetic in mind.",https://github.com/pyrates/roll,27,5,framework,python,updated,desc
+CreatCodeBuild/hyper2web,Super Fast Backend Framework (Educational Purpose),https://github.com/CreatCodeBuild/hyper2web,27,5,framework,python,updated,desc
+Almas-Ali/fronty,A frontend web framework for the web.,https://github.com/Almas-Ali/fronty,26,4,framework,python,updated,desc
+yourlabs/crudlfap,"MVC CRUD for Django, glueing popular plugins such as django-filter, django-tables2, etc",https://github.com/yourlabs/crudlfap,26,8,framework,python,updated,desc
+socon-dev/socon,Socon is a microservice architecture framework that helps you focussing on deploying/chaining individual commands and custom services between your different projects,https://github.com/socon-dev/socon,26,3,framework,python,updated,desc
+ksenginew/WSocket,"Simple WSGI HTTP + Websocket Server, Framework, Middleware And App.",https://github.com/ksenginew/WSocket,25,3,framework,python,updated,desc
+ai-forever/DataProcessingFramework,Framework for processing and filtering datasets,https://github.com/ai-forever/DataProcessingFramework,25,2,framework,python,updated,desc
+logictensornetworks/LTNtorch,"PyTorch implementation of Logic Tensor Networks, a Neural-Symbolic framework.",https://github.com/logictensornetworks/LTNtorch,25,4,framework,python,updated,desc
+PropsAI/agentserve,A framework for hosting and scaling AI agents.,https://github.com/PropsAI/agentserve,25,4,framework,python,updated,desc
+grisuno/LazyOwn,"The LazyOwn Framework is a comprehensive and advanced toolkit designed for professional redteams & penetration testers and security researchers. Crafted more of 200 attacks for both Linux/*nix/bsd/osx and Windows environments, this framework integrates a wide array of functionalities to streamline and enhance the efficiency of security assessments.",https://github.com/grisuno/LazyOwn,25,15,framework,python,updated,desc
+LukasHedegaard/ride,"Training wheels, side rails, and helicopter parent for your Deep Learning projects in PyTorch",https://github.com/LukasHedegaard/ride,25,1,framework,python,updated,desc
+akornatskyy/wheezy.web,"A lightweight, high performance WSGI web framework with the key features to build modern, efficient web.",https://github.com/akornatskyy/wheezy.web,25,0,framework,python,updated,desc
+Traumatism/Smog,A semi-automatic osint/recon framework.,https://github.com/Traumatism/Smog,24,3,framework,python,updated,desc
+tg21/python-on-pails,python on pails : An infant python based framework that uses python3 a server side scripting language.,https://github.com/tg21/python-on-pails,24,1,framework,python,updated,desc
+phil65/PrettyQt,Pythonic wrapper for PyQt6 / PySide6,https://github.com/phil65/PrettyQt,24,3,framework,python,updated,desc
+ysyisyourbrother/Federated-Learning-Research,"An implementation of federated learning research baseline methods based on FedML-core, which can be deployed on real distributed cluster and help researchers to explore more problems existing in real FL systems.",https://github.com/ysyisyourbrother/Federated-Learning-Research,24,7,framework,python,updated,desc
+itzmzn/ZyronixBot,ZyronixBot [WA Multi Device] is a WhatsApp based third party application that provide many services with a real-time automated conversational experience.,https://github.com/itzmzn/ZyronixBot,23,23,framework,python,updated,desc
+feightwywx/arcfutil,"A Python module designed for processing Arcaea related files(.aff chart, songlist, etc.) / 为处理Arcaea相关文件（谱面，songlist，etc.）设计的Python模块。",https://github.com/feightwywx/arcfutil,23,2,framework,python,updated,desc
+wilhelm-lab/dlomix,Python framework for Deep Learning in Proteomics,https://github.com/wilhelm-lab/dlomix,23,9,framework,python,updated,desc
+dropseed/plain,A web framework for building products with Python.,https://github.com/dropseed/plain,23,0,framework,python,updated,desc
+hivesolutions/colony,Implementation of the colony specification for python,https://github.com/hivesolutions/colony,23,6,framework,python,updated,desc
+FasterSpeeding/Alluka,A Python 3.11+ dependency injection framework.,https://github.com/FasterSpeeding/Alluka,23,3,framework,python,updated,desc
+flux-project/flux,"Machine Learning Stack for Big Data, Big Cluster and Big Challenges",https://github.com/flux-project/flux,22,3,framework,python,updated,desc
+SakiiR/timeauth,Python Time Based Authentication Attack Tool,https://github.com/SakiiR/timeauth,22,7,framework,python,updated,desc
+timetoai/TimeDiffusion,Unified Framework for Multiple Time Series Tasks,https://github.com/timetoai/TimeDiffusion,22,1,framework,python,updated,desc
+nxexox/pymlup,MLup is framework for easy and fast run ML in production,https://github.com/nxexox/pymlup,22,2,framework,python,updated,desc
+intel/xml-cli,UFFAF - UEFI Firmware Foundational Automation Framework (formerly XmlCli),https://github.com/intel/xml-cli,22,9,framework,python,updated,desc
+Just1z/asyncgpt,⚡️ Asynchronous framework for ChatGPT API 🤖,https://github.com/Just1z/asyncgpt,21,0,framework,python,updated,desc
+NCBI-Hackathons/LabPype,Framework for Creating Pipeline Software,https://github.com/NCBI-Hackathons/LabPype,21,4,framework,python,updated,desc
+nhairs/nserver,Python DNS Name Server Framework,https://github.com/nhairs/nserver,21,3,framework,python,updated,desc
+danielbentes/uim-protocol,"The Unified Intent Mediator (UIM) protocol standardizes interactions between AI agents and web services, streamlining how intents are discovered, executed, and managed. It provides a secure and efficient framework, simplifying integration and enabling scalable, autonomous AI-driven applications and workflows.",https://github.com/danielbentes/uim-protocol,21,0,framework,python,updated,desc
+pumpkin-py/pumpkin-py,Highly modular Discord bot. See admin and user documentation at https://pumpkin-py.github.io/docs/.,https://github.com/pumpkin-py/pumpkin-py,21,25,framework,python,updated,desc
+wnma3mz/flearn,Federated Learning Framework,https://github.com/wnma3mz/flearn,21,2,framework,python,updated,desc
+WebwareForPython/w4py,Webware for Python,https://github.com/WebwareForPython/w4py,21,4,framework,python,updated,desc
+ValentinMargraf/ActiveLearningPipelines,"Specificy, execute and monitor performances of active learning pipelines.",https://github.com/ValentinMargraf/ActiveLearningPipelines,21,2,framework,python,updated,desc
+sjdv1982/seamless,"Seamless is a framework to set up reproducible computations (and visualizations) that respond to changes in cells. Cells contain the input data as well as the source code of the computations, and all cells can be edited interactively. ",https://github.com/sjdv1982/seamless,20,6,framework,python,updated,desc
+proteanhq/protean,Pragmatic Framework for Ambitious Applications,https://github.com/proteanhq/protean,20,10,framework,python,updated,desc
+dilsonpereira/Formigueiro,A python Framework for Simple Ant Colony Optimization Algorithms,https://github.com/dilsonpereira/Formigueiro,20,4,framework,python,updated,desc
+WebwareForPython/w4py3,Webware for Python 3,https://github.com/WebwareForPython/w4py3,20,6,framework,python,updated,desc
+crosscompute/crosscompute,"Automate your Jupyter notebooks and scripts as web-based reports, tools, widgets, dashboards, forms.",https://github.com/crosscompute/crosscompute,20,7,framework,python,updated,desc
+danlkv/tgflow,A declarative-style telegram bot framework,https://github.com/danlkv/tgflow,20,3,framework,python,updated,desc
+smechaab/CurrencyViewer,Short python framework that dynamically displays and converts the cryptocurrencies in your Kraken wallet into equivalents fiat money.,https://github.com/smechaab/CurrencyViewer,20,6,framework,python,updated,desc
+yxonic/fret,Framework for Reproducible ExperimenTs,https://github.com/yxonic/fret,20,3,framework,python,updated,desc
+kamyabnazari/genraft-ai,Generative AI Framework with openAI Assistant APIs.,https://github.com/kamyabnazari/genraft-ai,20,4,framework,python,updated,desc
+moead-framework/framework,MOEA/D is a general-purpose algorithm framework. It decomposes a multi-objective optimization problem into a number of single-objective optimization sub-problems and then uses a search heuristic to optimize these sub-problems simultaneously and cooperatively.,https://github.com/moead-framework/framework,20,6,framework,python,updated,desc
+hydronautics-team/stingray,Hydronautics team ROS based framework for autonomous underwater vehicles (AUV),https://github.com/hydronautics-team/stingray,20,1,framework,python,updated,desc
+isomeric/isomer,Isomer base system - the decentralized application framework,https://github.com/isomeric/isomer,20,2,framework,python,updated,desc
+pyrustic/dresscode,Dress up your code with a beautiful graphical user interface ! ,https://github.com/pyrustic/dresscode,20,1,framework,python,updated,desc
+pfzhou/bida,简单、易用、稳定、高效，便于扩展和集成的，大语言模型工程化开发框架,https://github.com/pfzhou/bida,20,0,framework,python,updated,desc
+sktime/skbase,"Base classes for creating scikit-learn-like parametric objects, and tools for working with them.",https://github.com/sktime/skbase,19,11,framework,python,updated,desc
+getcuia/cuia,🧉🌿 A delightful tiny framework for building reliable text-based applications,https://github.com/getcuia/cuia,19,1,framework,python,updated,desc
+caronc/pynzbget,A Python Framework for NZBGet & SABnzbd Scripting,https://github.com/caronc/pynzbget,19,1,framework,python,updated,desc
+rosefun/SemiSupervised,Semi supervised learning framework of Python. ,https://github.com/rosefun/SemiSupervised,19,5,framework,python,updated,desc
+Ichunjo/vardautomation,Encoding automation framework,https://github.com/Ichunjo/vardautomation,19,2,framework,python,updated,desc
+dylan-slack/Tablet,The TABLET benchmark for evaluating instruction learning with LLMs for tabular prediction.,https://github.com/dylan-slack/Tablet,19,3,framework,python,updated,desc
+deepraj1729/TChatBot,"A ChatBot framework to create customizable all purpose Chatbots using NLP, Tensorflow, Speech Recognition ",https://github.com/deepraj1729/TChatBot,19,1,framework,python,updated,desc
+Sas2k/Lemon,A  Full-Stack Framework For Python,https://github.com/Sas2k/Lemon,19,2,framework,python,updated,desc
+AnyBlok/AnyBlok,AnyBlok is a Python framework for building business applications.,https://github.com/AnyBlok/AnyBlok,19,13,framework,python,updated,desc
+core-ml/coreml,Generic framework for ML projects,https://github.com/core-ml/coreml,19,3,framework,python,updated,desc
+TiagoMAntunes/KAREN,KAREN: Unifying Hatespeech Detection and Benchmarking,https://github.com/TiagoMAntunes/KAREN,19,3,framework,python,updated,desc
+Talus-Network/nexus,Nexus - The Agentic Framework created by Talus,https://github.com/Talus-Network/nexus,19,9,framework,python,updated,desc
+Yakser/yeet,Simple Python micro framework for building web applications.,https://github.com/Yakser/yeet,18,0,framework,python,updated,desc
+art-vasilyev/instachatbot,Simple framework for building Instagram chat bots with menu driven interface,https://github.com/art-vasilyev/instachatbot,18,0,framework,python,updated,desc
+Vivswan/AnalogVNN,A fully modular framework for modeling and optimizing analog neural networks,https://github.com/Vivswan/AnalogVNN,18,4,framework,python,updated,desc
+vberlier/endermite,"A high-level, opinionated python framework for building Minecraft data packs.",https://github.com/vberlier/endermite,18,0,framework,python,updated,desc
+orsinium-labs/asynchrony,asyncio Python framework for writing safe and fast concurrent code,https://github.com/orsinium-labs/asynchrony,18,2,framework,python,updated,desc
+eventbrite/pymetrics,Versatile Metrics Collection for Python,https://github.com/eventbrite/pymetrics,18,6,framework,python,updated,desc
+i-am-unbekannt/unbekannt-framework,A Hacking and Pentesting Tool for Windows,https://github.com/i-am-unbekannt/unbekannt-framework,18,3,framework,python,updated,desc
+kiwicom/contessa,"Easy way to define, execute and store quality rules for your data.",https://github.com/kiwicom/contessa,18,7,framework,python,updated,desc
+wegroupwolves/natsapi,A Python microservice framework that speaks nats.io with asyncapi spec generation capability,https://github.com/wegroupwolves/natsapi,18,2,framework,python,updated,desc
+ulno/ulnoiot-upy,retired version of ulnoiot based on micropython,https://github.com/ulno/ulnoiot-upy,17,15,framework,python,updated,desc
+sk4la/plast,Modular command-line threat hunting tool & framework.,https://github.com/sk4la/plast,17,4,framework,python,updated,desc
+primitiv/primitiv-python,Python binding of primitiv.,https://github.com/primitiv/primitiv-python,17,2,framework,python,updated,desc
+BehzaDMagzer/p.maker,PassWord List Maker,https://github.com/BehzaDMagzer/p.maker,17,5,framework,python,updated,desc
+rohit-chouhan/pysql,"PySQL is database framework for Python (v3.x) Language, Which is based on Python module mysql.connector, this module can help you to make your code more short and more easier.",https://github.com/rohit-chouhan/pysql,16,5,framework,python,updated,desc
+kodemore/chocs,Modern HTTP framework for AWS Serverless and WSGI compatible servers.,https://github.com/kodemore/chocs,16,3,framework,python,updated,desc
+riyuzenn/hype,⚙ A lightweight command line interface library for creating commands.,https://github.com/riyuzenn/hype,16,2,framework,python,updated,desc
+DreamingRaven/nemesyst,"Generalised and highly customisable, hybrid-parallelism, database based, deep learning framework.",https://github.com/DreamingRaven/nemesyst,16,5,framework,python,updated,desc
+jsphpl/python-cli-app,Framework for creating CLI apps using Python,https://github.com/jsphpl/python-cli-app,16,3,framework,python,updated,desc
+OPSE-Developers/OPSE-Framework,OPSE Framework is a plugin oriented tool that allow a user to perform an open-source research to gather intelligence of a target.,https://github.com/OPSE-Developers/OPSE-Framework,15,0,framework,python,updated,desc
+surister/datasaurus,Data Engineering framework written in Python based in Polars.,https://github.com/surister/datasaurus,15,4,framework,python,updated,desc
+usr2r00t/OASC,OpenAI Security Console - Python3 AI-powered Cybersecurity Framework,https://github.com/usr2r00t/OASC,15,5,framework,python,updated,desc
+reorx/deptest,dependent testing framework,https://github.com/reorx/deptest,15,4,framework,python,updated,desc
+hydrargyrum/eye,Edit Your Editor: a scriptable Qt-based text editor - mirror of https://gitlab.com/hydrargyrum/eye,https://github.com/hydrargyrum/eye,15,1,framework,python,updated,desc
+clamor-py/Clamor,The Python Discord API Framework,https://github.com/clamor-py/Clamor,15,3,framework,python,updated,desc
+ArcletProject/Entari,A simple IM framework based on Satori Protocol. 基于 Satori 跨平台协议的 IM 框架,https://github.com/ArcletProject/Entari,15,0,framework,python,updated,desc
+harveybc/agent-multi,Automated trading agent for an OpenAI Gym enviroment with multiple simultaneous trading of symbols(currency pairs) using separate action and observation timeseries.,https://github.com/harveybc/agent-multi,15,6,framework,python,updated,desc
+mever-team/FairBench,Comprehensive AI fairness exploration.,https://github.com/mever-team/FairBench,15,2,framework,python,updated,desc
+PaddlePaddle/PaddleSOT,A Bytecode level Implementation of Symbolic OpCode Translator For PaddlePaddle,https://github.com/PaddlePaddle/PaddleSOT,15,25,framework,python,updated,desc
+AaltoPML/VAI-Lab,Modular pipeline for design assistance. PYPi Package: https://pypi.org/project/vai-lab,https://github.com/AaltoPML/VAI-Lab,14,0,framework,python,updated,desc
+nanvel/cipher-bt,Trading strategy backtesting framework with focus on position adjustment in a session scope.,https://github.com/nanvel/cipher-bt,14,1,framework,python,updated,desc
+MaximeWeyl/blender_testing,"Run python tests inside Blender from your console or IDE, with minimal pytest (py.test) fixtures support",https://github.com/MaximeWeyl/blender_testing,14,3,framework,python,updated,desc
+unkn0wnh4ckr/tufhub,"i will post updates on my instagram @unkn0wn_bali     tufhub - a hacking framework with all kinds of bruteforce, info gather, dos attack, etc  tools in it that you use directly in the script              the twitter bruteforce does not work sadly",https://github.com/unkn0wnh4ckr/tufhub,14,4,framework,python,updated,desc
+CyberDataLab/nebula,NEBULA: A Platform for Decentralized Federated Learning,https://github.com/CyberDataLab/nebula,14,7,framework,python,updated,desc
+PolicyEngine/policyengine-core,Core microsimulation engine for PolicyEngine models. Forked from OpenFisca-Core.,https://github.com/PolicyEngine/policyengine-core,14,20,framework,python,updated,desc
+nfqsolutions/pylm,A framework to build components for high performance distributed applications.,https://github.com/nfqsolutions/pylm,14,5,framework,python,updated,desc
+Crypto-toolbox/hermes,"ZMQ-based framework for building Pub-Sub Systems, written in Python 3.",https://github.com/Crypto-toolbox/hermes,14,3,framework,python,updated,desc
+tigressine/lion,"A simple, modular Discord bot from scratch",https://github.com/tigressine/lion,14,7,framework,python,updated,desc
+MiBaLToALeX/ShellOrd, ShellOrd is a C2 (Command & Control) framework cross-platform and agent written in Rust & Java,https://github.com/MiBaLToALeX/ShellOrd,14,2,framework,python,updated,desc
+pranftw/neowise,Deep Learning library built from scratch with Python and NumPy,https://github.com/pranftw/neowise,14,1,framework,python,updated,desc
+tek/ribosome-py,neovim python plugin framework,https://github.com/tek/ribosome-py,13,0,framework,python,updated,desc
+viur-framework/viur-core,"The core component of ViUR, the Python framework for modern web development.",https://github.com/viur-framework/viur-core,13,14,framework,python,updated,desc
+why2pac/dp-tornado,"MVC Web Application Framework with Tornado, Python 2 and 3",https://github.com/why2pac/dp-tornado,13,7,framework,python,updated,desc
+dvf/synapse,Rapid RPC framework for building Python services fast,https://github.com/dvf/synapse,13,1,framework,python,updated,desc
+openforis/sepal_ui,wrapper for ipyvuetify widgets to unify the display of voila dashboards in the SEPAL plateform,https://github.com/openforis/sepal_ui,13,4,framework,python,updated,desc
+cloudforet-io/python-core,Cloudforet Backend API Framework,https://github.com/cloudforet-io/python-core,13,13,framework,python,updated,desc
+openedoo/openedoo,OpenEdoo Core,https://github.com/openedoo/openedoo,13,6,framework,python,updated,desc
+cscott/X1CarbonGen10,Keyboard with Trackpoint for Framework 16 laptop: hardware design,https://github.com/cscott/X1CarbonGen10,13,0,framework,python,updated,desc
+fhswf/MLPro,MLPro - The Integrative Middleware Framework for Standardized Machine Learning in Python,https://github.com/fhswf/MLPro,13,5,framework,python,updated,desc
+Jimoh1993/JPMorgan-Chase-Software-Engineering-Virtual-Experience,"Throughout the virtual experience, I am familiarizing myself with JPMorgan Chase frameworks and apply my technical skills to a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way.",https://github.com/Jimoh1993/JPMorgan-Chase-Software-Engineering-Virtual-Experience,13,37,framework,python,updated,desc
+berserkware/waffleweb,A WSGI-compatible Python web framework for making websites easily.,https://github.com/berserkware/waffleweb,13,0,framework,python,updated,desc
+frequenz-floss/frequenz-sdk-python,Frequenz Python Software Development Kit (SDK),https://github.com/frequenz-floss/frequenz-sdk-python,13,17,framework,python,updated,desc
+alex-oleshkevich/kupala,Set of extensions for Starlette framework.,https://github.com/alex-oleshkevich/kupala,13,0,framework,python,updated,desc
+SebastianSemper/camiba,Compressed Sensing and Sparse Recovery Algorithms and more!,https://github.com/SebastianSemper/camiba,13,4,framework,python,updated,desc
+tylerlaberge/Jasper,An asynchronous behavior-driven development framework.,https://github.com/tylerlaberge/Jasper,13,2,framework,python,updated,desc
+viur-framework/html5,"Pure Python HTML abstraction layer, parser and interpreter",https://github.com/viur-framework/html5,13,5,framework,python,updated,desc
+banctilrobitaille/kerosene,Deep Learning framework for fast and clean research with Pytorch,https://github.com/banctilrobitaille/kerosene,13,1,framework,python,updated,desc
+Dingolytics/golem-gpt,"Framework for building actionable agents to achieve goals specified by user, powered by OpenAI GPT-4 and GPT-3.5",https://github.com/Dingolytics/golem-gpt,13,1,framework,python,updated,desc
+kulikovia/KG4CDO,KG4CDO: A Knowledge Based Framework for Objects Models Synthesis,https://github.com/kulikovia/KG4CDO,12,1,framework,python,updated,desc
+synthesized-io/insight,🧿 Metrics & Monitoring of Datasets,https://github.com/synthesized-io/insight,12,0,framework,python,updated,desc
+Mattdl/DUA,"Source code ""Unsupervised Model Personalization while Preserving Privacy and Scalability: An Open Problem."" @ CVPR2020",https://github.com/Mattdl/DUA,12,3,framework,python,updated,desc
+FirasKahlaoui/web-scraping-lvl2,"The ""web-scraping-lvl2"" project is a learning exercise to explore advanced web scraping techniques using Scrapy.",https://github.com/FirasKahlaoui/web-scraping-lvl2,12,0,framework,python,updated,desc
+Gamingpro237/Advanced_Interview_responder_with_AI,"The Advanced Interview Responder uses AI to generate tailored responses from a user’s resume and real-time transcribed questions, displaying them on a teleprompter interface for confident and effective interview preparation.",https://github.com/Gamingpro237/Advanced_Interview_responder_with_AI,12,2,framework,python,updated,desc
+Yourun-proger/kefir,Easy (de)serialization of SQLAlchemy models and complex objects,https://github.com/Yourun-proger/kefir,12,1,framework,python,updated,desc
+krypton-byte/thundra,Thundra is a framework designed to streamline the development of WhatsApp bots and automations. It provides a solid foundation and abstraction layer to simplify the process of creating and managing WhatsApp bots for various purposes.,https://github.com/krypton-byte/thundra,12,2,framework,python,updated,desc
+hyperdiv/hyperdiv-docs,"The Hyperdiv documentation app, implemented in Hyperdiv",https://github.com/hyperdiv/hyperdiv-docs,12,9,framework,python,updated,desc
+miguelteixeiraa/crinkle,Crinkle is a framework for organizing the execution of complex processing flows by implementing the “Chain of Responsability” pattern in Python,https://github.com/miguelteixeiraa/crinkle,12,0,framework,python,updated,desc
+jackfsuia/ShampooSalesAgent,"A minimal LLM sales agent framework for sales agent fast deployment and benchmark. Support OpenAI models, Claude, HuggingFace models, Gemini, Ernie(文心一言4.0), Baichuan(百川), Qwen(通义千问), Moonshot(月之暗面), GLM(智谱), Deepseek. AI销售智能体微型框架.",https://github.com/jackfsuia/ShampooSalesAgent,12,1,framework,python,updated,desc
+candango/firenado,"Web Framework that extends Tornado Web organizing the application, and adding extra features.",https://github.com/candango/firenado,12,9,framework,python,updated,desc
+billyrrr/onto,Idealistic and yet usable framework for event-driven backend ,https://github.com/billyrrr/onto,12,1,framework,python,updated,desc
+Astremy/SAPAS,SAPAS is a web framework similar to Flask. It allows you to make python backend easily.,https://github.com/Astremy/SAPAS,12,1,framework,python,updated,desc
+Cyb3rtch/Cyb3rtech-Tool,🇫🇷 : Cyb3rtech est un multi-tool fait pour tous ! | 🇺🇲 : Cyb3rtech is a multi-tool made for everyone!,https://github.com/Cyb3rtch/Cyb3rtech-Tool,12,1,framework,python,updated,desc
+Prev/jikji,Python Static Web Framework for Modern Web 📜,https://github.com/Prev/jikji,12,3,framework,python,updated,desc
+ringcentral/ringcentral-chatbot-python,RingCentral Chatbot Framework for Python,https://github.com/ringcentral/ringcentral-chatbot-python,11,3,framework,python,updated,desc
+kdevo/chaos-rrs,Chaos - a first of its kind framework for researching Reciprocal Recommender Systems (RRS).,https://github.com/kdevo/chaos-rrs,11,1,framework,python,updated,desc
+mamrehn/interactive_image_segmentation_evaluation,"Code for paper ""A Semi-Automated Usability Evaluation Framework for Interactive Image Segmentation Systems""",https://github.com/mamrehn/interactive_image_segmentation_evaluation,11,4,framework,python,updated,desc
+wearepal/conduit,Lightweight framework for data-loading with PyTorch and harvesting the power of (PyTorch) lightning,https://github.com/wearepal/conduit,11,4,framework,python,updated,desc
+gersonfreire/telegram-bot-framework,🤖 Application-level library for building bots in Telegram.,https://github.com/gersonfreire/telegram-bot-framework,11,1,framework,python,updated,desc
+ragnarok22/eliud,A simple Framework to create Telegram Bots,https://github.com/ragnarok22/eliud,11,1,framework,python,updated,desc
+cpmbits/cpm,A modern project management tool for C/C++ projects,https://github.com/cpmbits/cpm,11,2,framework,python,updated,desc
+localstack/rolo,A Python framework for building HTTP-based server applications,https://github.com/localstack/rolo,11,0,framework,python,updated,desc
+red8012/portkey,A Python framework for interacting with in-browser DOM via websockets,https://github.com/red8012/portkey,11,2,framework,python,updated,desc
+efeone/quotation_comparison,Quotation Comparison Tool for ERPNext,https://github.com/efeone/quotation_comparison,11,14,framework,python,updated,desc
+Tribler/gumby,Experiment runner framework for IPv8 and Tribler,https://github.com/Tribler/gumby,11,36,framework,python,updated,desc
+b3nk4n/tensorlight,TensorLight - A high-level framework for TensorFlow,https://github.com/b3nk4n/tensorlight,11,5,framework,python,updated,desc
+doublevcodes/sirius,Create APIs that shine like a star ✨,https://github.com/doublevcodes/sirius,11,2,framework,python,updated,desc
+milanofthe/pathsim,A differentiable block-based time domain hybrid system simulation framework.,https://github.com/milanofthe/pathsim,11,0,framework,python,updated,desc
+passive-radio/pigframe,A minimum Python-based ECS library designed to simplify and streamline the development process of game application.,https://github.com/passive-radio/pigframe,11,1,framework,python,updated,desc
+zzzzlzzzz/jackfruit,Simple way for creating telegram bots with deep level menu,https://github.com/zzzzlzzzz/jackfruit,11,2,framework,python,updated,desc
+jrcichra/smartcar,Transfer dashcam footage when you get home,https://github.com/jrcichra/smartcar,11,3,framework,python,updated,desc
+wondergram-org/wonda,"A light, blazing fast framework for developing capable bots.",https://github.com/wondergram-org/wonda,11,0,framework,python,updated,desc
+semk/appy,A simple Python Application Framework,https://github.com/semk/appy,11,0,framework,python,updated,desc
+BlesslinJerishR/zython,"Framework Skeletons , modules which I Developed to crack the hardest of ZOHO Corp Ace Tier 2 Interviews .",https://github.com/BlesslinJerishR/zython,10,0,framework,python,updated,desc
+crazytruth/insanic,A framework that extends Sanic with a focus on microservices.,https://github.com/crazytruth/insanic,10,2,framework,python,updated,desc
+funkyfuture/inxs,A Python framework for XML transformations without boilerplate.,https://github.com/funkyfuture/inxs,10,3,framework,python,updated,desc
+sun1638650145/classicML,简单易用的经典机器学习框架,https://github.com/sun1638650145/classicML,10,2,framework,python,updated,desc
+sedders123/phial,A lightweight framework for building slack bots,https://github.com/sedders123/phial,10,5,framework,python,updated,desc
+GrantBirki/errbot,A dockerized version of errbot for quickly deploying chatbots - it can do literally anything 🤖,https://github.com/GrantBirki/errbot,10,3,framework,python,updated,desc
+marazmiki/django-generic-helpers,The application provides some syntax sugar for working with Django's generic relations,https://github.com/marazmiki/django-generic-helpers,10,2,framework,python,updated,desc
+yuunnn/myalgorithms,simple implementations of DL ML Matrix and DataStructures,https://github.com/yuunnn/myalgorithms,10,1,framework,python,updated,desc
+marcellobatiista/Dicgram,Dicgram é um Framework simples para criação de bots para o Telegram em Python,https://github.com/marcellobatiista/Dicgram,10,0,framework,python,updated,desc
+wzykubek/telegrask,Flask-inspired Telegram bot micro framework for Python.,https://github.com/wzykubek/telegrask,10,1,framework,python,updated,desc
+precise-simulation/scientific-app-framework-for-python,Scientific Application Framework for Python [Prototype],https://github.com/precise-simulation/scientific-app-framework-for-python,10,3,framework,python,updated,desc
+autogram/Botkit,"Opinionated, library-agnostic Python framework for rapid development of Telegram bots and userbots with focus on maintainability for large projects.",https://github.com/autogram/Botkit,10,2,framework,python,updated,desc
+datahappy1/csv_file_validator,Python 3+ csv file validation framework,https://github.com/datahappy1/csv_file_validator,10,4,framework,python,updated,desc
+yezz123/yasgi,yasgi is a tiny ASGI framework ✨,https://github.com/yezz123/yasgi,10,1,framework,python,updated,desc
+DaviVidal01/Django_Framework,"👨‍💻 # Este repositório abriga um abrangente tutorial sobre o desenvolvimento web usando o framework Django. Aprenda passo a passo a criar um aplicativo web, desde a configuração inicial até o deploy em um ambiente de produção.",https://github.com/DaviVidal01/Django_Framework,10,1,framework,python,updated,desc
+cs91chris/flaskel,Flaskel is a skeleton for all type of Flask application,https://github.com/cs91chris/flaskel,10,1,framework,python,updated,desc
+ShiroDoMain/Karas,一个基于mirai-api-http的高性能qq消息处理框架,https://github.com/ShiroDoMain/Karas,10,1,framework,python,updated,desc
+mozillazg/tinyq,A tiny job queue framework,https://github.com/mozillazg/tinyq,10,3,framework,python,updated,desc
+jcfandinocal/progaf,A python framework to develop games with real world object tracking (using cameras) combined with projection mapping,https://github.com/jcfandinocal/progaf,9,3,framework,python,updated,desc
+demetoir/ALLGANS, 머신러닝 프레임워크를 활용한 비교사(Unsupervised) 학습 모델 구현 프로젝트,https://github.com/demetoir/ALLGANS,9,2,framework,python,updated,desc
+phoopy/phoopy,A full stack framework for python based in bundles,https://github.com/phoopy/phoopy,9,1,framework,python,updated,desc
+xakepnz/enterpriseattack,A lightweight Python module to interact with the Mitre Att&ck Enterprise dataset.,https://github.com/xakepnz/enterpriseattack,9,2,framework,python,updated,desc
+mikepk/pybald,A light weight MVC-style python web framework for learning and hacking.,https://github.com/mikepk/pybald,9,5,framework,python,updated,desc
+nicolay-r/THOR-ECAC,"The official fork of THoR Chain-of-Thought framework, enhanced and adapted for Emotion Cause Analysis (ECAC-2024)",https://github.com/nicolay-r/THOR-ECAC,9,0,framework,python,updated,desc
+leVirve/OneGan,"One more freaking GAN, I'll be sick.",https://github.com/leVirve/OneGan,9,6,framework,python,updated,desc
+almprmg/FlashBackTest,Back Testing strategies  fast in Python,https://github.com/almprmg/FlashBackTest,9,1,framework,python,updated,desc
+s-lilo/brat-peek,Framework for working with brat-annotated .ann files,https://github.com/s-lilo/brat-peek,9,2,framework,python,updated,desc
+wefindx/metadrive,Generic Interfaces to Addressable Objects,https://github.com/wefindx/metadrive,9,1,framework,python,updated,desc
+McWashr/pyscrapify,PyScrapify is a modular Python web scraper framework built on top of Selenium and BeautifulSoup. Easily extendable with new scrapers off of BaseScraper class. Avoid the bloat of creating web scrapers in Python! ,https://github.com/McWashr/pyscrapify,9,3,framework,python,updated,desc
+nestpy/nest,"A progressive Python framework for building efficient, scalable, and enterprise-grade server-side applications 🚀",https://github.com/nestpy/nest,9,2,framework,python,updated,desc
+Antergos/whither,Universal Linux Application SDK - Create once. Run everywhere.,https://github.com/Antergos/whither,9,9,framework,python,updated,desc
+Lh4cKg/wagtail-admin-sortable,Generic drag-and-drop ordering for objects in the Wagtail admin interface,https://github.com/Lh4cKg/wagtail-admin-sortable,9,12,framework,python,updated,desc
+gitgernit/boilergram,Manage your aiogram bots in a django-like approach!,https://github.com/gitgernit/boilergram,9,0,framework,python,updated,desc
+0xCCF4/ExpKit,A framework and build automation tool to process exploits/payloads to evade antivirus and endpoint detection response products using reusable building-blocks like encryption or obfuscation. Mirrors: https://gitlab.com/0xCCF4/expkit . Create issues and merge request on gitlab.,https://github.com/0xCCF4/ExpKit,9,4,framework,python,updated,desc
+scott-ca/mykros_framework,"A cross-language, lightweight, portable, modular, locally hosted AI assistant framework designed to optimize your workflow through natural language, enhancing efficiency and productivity in your daily tasks.",https://github.com/scott-ca/mykros_framework,9,0,framework,python,updated,desc
+ikanam-ai/SLAVA,SLAVA: Benchmark of Sociopolitical Landscape and Value Analysis,https://github.com/ikanam-ai/SLAVA,9,1,framework,python,updated,desc
+Abstract-X/telebox,A Python framework for creating Telegram bots.,https://github.com/Abstract-X/telebox,9,2,framework,python,updated,desc
+d-Rickyy-b/certleak,Python framework for collecting and analyzing TLS certificate data via the Certificate Transparency Network,https://github.com/d-Rickyy-b/certleak,9,1,framework,python,updated,desc
+fixstars/amplify-benchmark,"Benchmark framework for quantum annealing machines, Ising machines, and mathematical optimization solvers.",https://github.com/fixstars/amplify-benchmark,9,1,framework,python,updated,desc
+tu-dortmund-ls12-rt/SSSEvaluation,Evaluation Framework for Self-Suspending Task Systems,https://github.com/tu-dortmund-ls12-rt/SSSEvaluation,9,3,framework,python,updated,desc
+efeone/multi_branch_utility,Frappe application to support Multi Branch setup in ERPNext,https://github.com/efeone/multi_branch_utility,9,5,framework,python,updated,desc
+FreeTAKTeam/DigitalPy,A framework to support digital engineering in the python language,https://github.com/FreeTAKTeam/DigitalPy,9,6,framework,python,updated,desc
+gaohongsong/flask-demo,逐步优化flask的工程结构,https://github.com/gaohongsong/flask-demo,8,2,framework,python,updated,desc
+nxexox/python-rest-framework,Python Rest Framework ,https://github.com/nxexox/python-rest-framework,8,0,framework,python,updated,desc
+derekenos/iome,A Physical Platform for Web Appplication Development,https://github.com/derekenos/iome,8,1,framework,python,updated,desc
+kmdn/combining-linking-techniques,"Combining Linking Techniques (CLiT) is an entity linking combination and execution framework, allowing for the seamless integration of EL systems and result exploitation for the sake of system reusability, result reproducibility, analysis and continuous improvement. (We hate waste. Especially wasting time. So let's reuse instead!)",https://github.com/kmdn/combining-linking-techniques,8,1,framework,python,updated,desc
+xrally/xrally-docker,A set of xRally plugins to run workloads against Docker platform.,https://github.com/xrally/xrally-docker,8,1,framework,python,updated,desc
+hvuhsg/MultiSC,Server for your app needs,https://github.com/hvuhsg/MultiSC,8,0,framework,python,updated,desc
+PierroD/fastapi-crudrouter-mongodb,This is the MongoDB version of awtkns CRUDRouter for FastAPI,https://github.com/PierroD/fastapi-crudrouter-mongodb,8,1,framework,python,updated,desc
+xrally/xrally-docs,xRally Documentation ,https://github.com/xrally/xrally-docs,8,2,framework,python,updated,desc
+B1Z0N/iahr,Telegram userbot creation platform framework.,https://github.com/B1Z0N/iahr,8,0,framework,python,updated,desc
+bgempire/bgforce,BGE and UPBGE framework with pre-made common systems such as GUI and data management.,https://github.com/bgempire/bgforce,8,0,framework,python,updated,desc
+alexemanuelol/terminal-text-boxes,"A framework for terminal text box functionality used for chat applications, general text flow applications and more...",https://github.com/alexemanuelol/terminal-text-boxes,8,0,framework,python,updated,desc
+FoliageOwO/JustBot,一个轻量的异步 QQ 机器人框架,https://github.com/FoliageOwO/JustBot,8,0,framework,python,updated,desc
+blindspoter/saturn,基于tornado的通用服务开发框架,https://github.com/blindspoter/saturn,8,2,framework,python,updated,desc
+cosmaadrian/acumen-template,The deep learning researcher's starter kit,https://github.com/cosmaadrian/acumen-template,8,0,framework,python,updated,desc
+tbaptista/pyafai,Python Agent Framework for Artificial Intelligence,https://github.com/tbaptista/pyafai,8,1,framework,python,updated,desc
+ZigRazor/PyStateMachine,Python State Machine ,https://github.com/ZigRazor/PyStateMachine,8,11,framework,python,updated,desc
+Mrokkk/urwim,URWid IMproved - a framework based on the Urwid for creating VIM-like apps,https://github.com/Mrokkk/urwim,8,2,framework,python,updated,desc
+cyclux/tradeforce,"Python-based trading framework designed for high-performance backtesting, hyperparameter optimization, and live trading.",https://github.com/cyclux/tradeforce,8,0,framework,python,updated,desc
+fl0fischer/OFC4HCI,"OFC4HCI – Python Toolbox with Optimal Feedback Control Models for Modeling Human-Computer Interaction (including, e.g., MinJerk, LQR, and LQG)",https://github.com/fl0fischer/OFC4HCI,8,1,framework,python,updated,desc
+mitama-org/mitama,,https://github.com/mitama-org/mitama,8,0,framework,python,updated,desc
+ksenginew/nanoasgi,"Fast⚡, simple and light💡weight ASGI micro🔬 web🌏-framework for Python🐍.",https://github.com/ksenginew/nanoasgi,8,0,framework,python,updated,desc
+sweetpalma/perver,Small async Python web-framework done for perverts with love. Just for fun.,https://github.com/sweetpalma/perver,8,2,framework,python,updated,desc
+HydroRoll-Team/HydroRoll,跨平台、多模态、高度自定义的骰系开发框架。,https://github.com/HydroRoll-Team/HydroRoll,8,2,framework,python,updated,desc
+gabssanto/pizzaPy,A framework for building frontend only with Python!,https://github.com/gabssanto/pizzaPy,8,1,framework,python,updated,desc
+gengjia0214/jai,A LEGO-style PyTorch-based Deep Learning Library for ConvNets Modeling,https://github.com/gengjia0214/jai,8,0,framework,python,updated,desc
+sobjornstad/esc,"friendly, extensible TUI RPN calculator",https://github.com/sobjornstad/esc,8,1,framework,python,updated,desc
+josch14/semantic-metadata-extraction-from-videos,Semantic Metadata Extraction from Generated Video Captions (CD-MAKE 2023).,https://github.com/josch14/semantic-metadata-extraction-from-videos,8,2,framework,python,updated,desc
+uvicore/framework,The Full Stack Asynchronous Python Framework with the performance of FastAPI and the elegance of Laravel! - https://uvicore.io,https://github.com/uvicore/framework,8,3,framework,python,updated,desc
+Oussama1403/KivyCalculator,Simple kivy project to help new kivy users build android apps with python.,https://github.com/Oussama1403/KivyCalculator,8,3,framework,python,updated,desc
+Varkal/chuda,A simple framework for CLI tools,https://github.com/Varkal/chuda,8,1,framework,python,updated,desc
+stormpyio/storm,"A Python framework for building efficient, scalable, and modular applications inspired by NestJS.",https://github.com/stormpyio/storm,8,0,framework,python,updated,desc
+btr1975/automation-framework,Automation Framework has many tools commonly used for Network Automation,https://github.com/btr1975/automation-framework,8,1,framework,python,updated,desc
+northpowered/temporal-boost,Extemely fast development for Temporal-based microservices,https://github.com/northpowered/temporal-boost,8,1,framework,python,updated,desc
+ChenYingpeng/caffe-ssd-frameworks,"Caffe implementation of  SSD detection network,such as Google MobileNet and SqueezeNet",https://github.com/ChenYingpeng/caffe-ssd-frameworks,8,9,framework,python,updated,desc
+CARecSys/CAPRI,CAPRI: Context-Aware Interpretable Point-of-Interest Recommendation Framework,https://github.com/CARecSys/CAPRI,8,1,framework,python,updated,desc
+Optical-Networks-Group/rsa-rl,Open Source Reinforcement Learning Framework for Routing and Spectrum Assignment,https://github.com/Optical-Networks-Group/rsa-rl,8,4,framework,python,updated,desc
+obahamonde/aiofauna,"A fully featured backend framework, fast, simple and reliable.",https://github.com/obahamonde/aiofauna,8,0,framework,python,updated,desc
+havocesp/cctf,Crypto Currencies Trading Framework,https://github.com/havocesp/cctf,7,1,framework,python,updated,desc
+minos-framework/minos-cli,🕹️ The command-line interface of the Minos Framework,https://github.com/minos-framework/minos-cli,7,2,framework,python,updated,desc
+WwZzz/FLGo-Bench,Produce results of federated algorithms on various benchmarks,https://github.com/WwZzz/FLGo-Bench,7,0,framework,python,updated,desc
+Zchap1/Genesis,Personal Hacking Framework,https://github.com/Zchap1/Genesis,7,3,framework,python,updated,desc
+Kalyan4636/PYTHON-EERING,"PYTHON PROJECT WITH SOURCE CODE.  the best Python project name is one that is descriptive, memorable, and fun for you to say. Don't be afraid to get creative and use emojis to make your project stand out! 📈",https://github.com/Kalyan4636/PYTHON-EERING,7,2,framework,python,updated,desc
+minos-framework/minos-discovery,🔍 The Discovery service of the Minos Framework,https://github.com/minos-framework/minos-discovery,7,2,framework,python,updated,desc
+bolinette/bolinette,An inversion of control framework in Python,https://github.com/bolinette/bolinette,7,0,framework,python,updated,desc
+celery/jumpstarter,,https://github.com/celery/jumpstarter,7,3,framework,python,updated,desc
+gluetool/gluetool,Gluetool is a Python command line framework - glue for your tools and libraries,https://github.com/gluetool/gluetool,7,9,framework,python,updated,desc
+flexmonster/pivot-django,Django grid component example with Flexmonster,https://github.com/flexmonster/pivot-django,7,1,framework,python,updated,desc
+kklmn/ParSeq,Python software library for Parallel execution of Sequential data analysis.,https://github.com/kklmn/ParSeq,7,1,framework,python,updated,desc
+zhudotexe/fastlmi,A fast framework (in both performance and development time) for creating language model interfaces - a more generic term for tools built for AIs like ChatGPT plugins.,https://github.com/zhudotexe/fastlmi,7,2,framework,python,updated,desc
+cmarshall108/curionet,"Curionet is an asynchronous high-level networking framework, built on top of the Curio concurrency library. ",https://github.com/cmarshall108/curionet,7,0,framework,python,updated,desc
+JYLinOK/Way,Way - An easy and fast front-end generator library,https://github.com/JYLinOK/Way,7,0,framework,python,updated,desc
+krystianbajno/burpr,"👾 Burp Suite request parser, used for aid in assessing application security functionality.",https://github.com/krystianbajno/burpr,7,0,framework,python,updated,desc
+w0bos/onifw,onifw is a console framework for pentesting,https://github.com/w0bos/onifw,7,2,framework,python,updated,desc
+thompson0012/PyEmits,Sugar candy for data scientist. Easy manipulation in time-series data analytics works.,https://github.com/thompson0012/PyEmits,7,1,framework,python,updated,desc
+surrsurus/enterprise-fibonacci,Find the nth value of the fibonacci series with a robust framework suited for enterprise production,https://github.com/surrsurus/enterprise-fibonacci,7,1,framework,python,updated,desc
+aprilahijriyan/allin,Allin is an experimental asynchronous web framework.,https://github.com/aprilahijriyan/allin,7,0,framework,python,updated,desc
+minos-framework/minos-api-gateway,🌐 The API Gateway of the Minos Framework,https://github.com/minos-framework/minos-api-gateway,7,2,framework,python,updated,desc
+shobrook/neuropipe,Easy scaffolding for machine learning pipelines in Scikit-Learn,https://github.com/shobrook/neuropipe,7,0,framework,python,updated,desc
+orsinium-labs/jockey,"🏇 Generic Python library for running asynchronous workers. Useful for building event handlers, web frameworks, and alike.",https://github.com/orsinium-labs/jockey,7,0,framework,python,updated,desc
+tbhaxor/morphine,Morphine is GUI python framework that helps you in creating a `setup.py` in approx 4 - 5 mins ,https://github.com/tbhaxor/morphine,7,1,framework,python,updated,desc
+aprilahijriyan/falca,Falca is an intuitive REST APIs framework based on the falcon framework.,https://github.com/aprilahijriyan/falca,7,0,framework,python,updated,desc
+CPerezRuiz335/giagrad,Deep learning framework made by and for students. ,https://github.com/CPerezRuiz335/giagrad,7,2,framework,python,updated,desc
+toros-astro/corral,The Powerful Pipeline Framework,https://github.com/toros-astro/corral,6,6,framework,python,updated,desc
+pytsite/pytsite,Brand New Python Web Framework,https://github.com/pytsite/pytsite,6,0,framework,python,updated,desc
+Fr4ncisTaylor/Cybot,"Framework to Whatsapp web, Instagram, Messenger and Telegram bot with use python 3.",https://github.com/Fr4ncisTaylor/Cybot,6,2,framework,python,updated,desc
+spaceone/circuits.http,HTTP components for circuits,https://github.com/spaceone/circuits.http,6,1,framework,python,updated,desc
+Thanatisia/distinstall-python,"A universal linux distribution installation framework/library that is focused on Modularity, Configurability, Portability and Readability. ",https://github.com/Thanatisia/distinstall-python,6,0,framework,python,updated,desc
+Qwinpin/Neuvol,Genetic algorithm framework to find the best neural network architecture with PyTorch,https://github.com/Qwinpin/Neuvol,6,1,framework,python,updated,desc
+jobe3774/raspend,"raspend is a small and easy to use web service framework, which is ideal for small to medium-sized home automation projects.",https://github.com/jobe3774/raspend,6,1,framework,python,updated,desc
+t3tra-dev/haru,The Python framework for web applications.(Don't send a pull request to this),https://github.com/t3tra-dev/haru,6,0,framework,python,updated,desc
+ingran/linkero,Restful API for external requests,https://github.com/ingran/linkero,6,3,framework,python,updated,desc
+noxouille/deepbench,"Device Agnostic Deep Learning Benchmark to compare the performance framework-wise, layer-wise, and model-wise. ",https://github.com/noxouille/deepbench,6,3,framework,python,updated,desc
+manncodes/xeno,Scalable deep learning library built from scratch. Purely based on NumPy.,https://github.com/manncodes/xeno,6,1,framework,python,updated,desc
+harveybc/feature-eng,"Implements classes for feature engineering including one for Singular Spectrum Analysis (SSA) decomposition, SSA prediction or an heuristic function of an input dataset that may be used as training signal.",https://github.com/harveybc/feature-eng,6,3,framework,python,updated,desc
+demml/opsml,Next generation of machine learning artifact management and observability,https://github.com/demml/opsml,6,0,framework,python,updated,desc
+DuskNgai/coach-pl,A PyTorch-Lightning based deep learning framework.,https://github.com/DuskNgai/coach-pl,6,1,framework,python,updated,desc
+Bitwise-01/Atomic,A proxy framework,https://github.com/Bitwise-01/Atomic,6,3,framework,python,updated,desc
+jesvijonathan/Jesvi-Bot-Telegram,"A Developing All in one Telegram Handler Bot With Utility, Cross platform Support, Tools, Easy Setup, etc. Absolute bonkers backend modules and utility ;)",https://github.com/jesvijonathan/Jesvi-Bot-Telegram,6,3,framework,python,updated,desc
+rickstaa/stable-learning-control,A framework for training theoretically stable (and robust) Reinforcement Learning control algorithms.,https://github.com/rickstaa/stable-learning-control,6,1,framework,python,updated,desc
+zabbix-byte/PyPulse,Open-source project that simplifies the creation of desktop applications based on Chromium,https://github.com/zabbix-byte/PyPulse,6,1,framework,python,updated,desc
+jeremypoulain/nlplay,NLPlay is a Pytorch library which implements some key & baseline models for text classifications problems,https://github.com/jeremypoulain/nlplay,6,1,framework,python,updated,desc
+jellyfish-toolkit/pipe-framework,Data-oriented web microframework allows you to create web services with ETL approach instead of traditional MVC.,https://github.com/jellyfish-toolkit/pipe-framework,6,3,framework,python,updated,desc
+Photon-AI-Research/NF4IP,Normalising flows for Inverse Problems is a framework providing all means for data-driven solutions to inverse (imaging) problems. ,https://github.com/Photon-AI-Research/NF4IP,6,0,framework,python,updated,desc
+snu-quiqcl/qiwis,QuIqcl Widget Integration Software,https://github.com/snu-quiqcl/qiwis,6,2,framework,python,updated,desc
+mdutkin/m2core,Tornado REST-API web framework,https://github.com/mdutkin/m2core,6,1,framework,python,updated,desc
+dcomp-labPi/FAiR,Framework For Analyses in Recommender Systems,https://github.com/dcomp-labPi/FAiR,6,0,framework,python,updated,desc
+ricardojoserf/pywisam,A Wifi pentesting framework written in Python,https://github.com/ricardojoserf/pywisam,6,3,framework,python,updated,desc
+Kitware/SMQTK-Core,Provide the basic underpinnings for developing interfaces that have built-in implementation discovery and factory construction from configuration.,https://github.com/Kitware/SMQTK-Core,6,5,framework,python,updated,desc
+m-moein98/privatejet,"PrivateJet framework, all async and OOP based, easy to learn and code.",https://github.com/m-moein98/privatejet,6,0,framework,python,updated,desc
+Airbase/eventbusk,Event bus with Kafka,https://github.com/Airbase/eventbusk,6,2,framework,python,updated,desc
+onsecurity/ArdentScanner,"A lightweight, easily extendable enumeration framework for penetration testers written in Python.",https://github.com/onsecurity/ArdentScanner,6,1,framework,python,updated,desc
+vmagamedov/harness,Language-neutral meta-framework for building serverless-style services,https://github.com/vmagamedov/harness,6,0,framework,python,updated,desc
+0x0elliot/connectlearn,ConnectLearn is a simple and efficient Open Source Platform written to connect students and teachers better with each other. ,https://github.com/0x0elliot/connectlearn,6,2,framework,python,updated,desc
+Animenosekai/nasse,A framework written on top of Flask,https://github.com/Animenosekai/nasse,6,0,framework,python,updated,desc
+ifm/nexxT,Hybrid python/c++ framework for developing computer vision algorithms and more.,https://github.com/ifm/nexxT,6,1,framework,python,updated,desc
+DataScienceUIBK/HintEval,A Python framework designed for both generating and evaluating hints.,https://github.com/DataScienceUIBK/HintEval,6,2,framework,python,updated,desc
+toxydose/connection_monitor_bot,bot to monitor connection or send logs to Telegram chat.,https://github.com/toxydose/connection_monitor_bot,6,2,framework,python,updated,desc
+calpaterson/missive,Python framework for writing message processors,https://github.com/calpaterson/missive,6,0,framework,python,updated,desc
+zopefoundation/Products.CMFCore,Key framework services for the Zope Content Management Framework (CMF),https://github.com/zopefoundation/Products.CMFCore,6,20,framework,python,updated,desc
+tbaptista/simcx,Simulator for Complex Systems,https://github.com/tbaptista/simcx,6,4,framework,python,updated,desc
+viniarck/netblow,:boom: Vendor agnostic network testing framework to stress network failures,https://github.com/viniarck/netblow,6,1,framework,python,updated,desc
+stergiosbamp/deep-physical-activity-prediction,"""UBIWEAR: An end-to-end, data-driven framework for intelligent physical activity prediction to empower mHealth interventions"" @ IEEE HealthCom 2022",https://github.com/stergiosbamp/deep-physical-activity-prediction,6,0,framework,python,updated,desc
+livioribeiro/selva,Python ASGI web framework,https://github.com/livioribeiro/selva,6,0,framework,python,updated,desc
+MarkParker5/STARK-PLACE,S.T.A.R.K. Platform Library and Community Extensions,https://github.com/MarkParker5/STARK-PLACE,6,1,framework,python,updated,desc
+Heretyc/uiblack,A truly cross-platform Textual User Interface (TUI) providing several libCurses features without any of the complexity.,https://github.com/Heretyc/uiblack,6,0,framework,python,updated,desc
+nlpie/mtap,MTAP: A framework for distributed text analysis using gRPC and microservices-based architecture.,https://github.com/nlpie/mtap,6,2,framework,python,updated,desc
+masaar/limp,🚀🐍 Rapid app development framework.,https://github.com/masaar/limp,5,0,framework,python,updated,desc
+connordelacruz/webdriver-test-tools,A front-end testing framework using Selenium WebDriver and Python.,https://github.com/connordelacruz/webdriver-test-tools,5,1,framework,python,updated,desc
+ahucv/Multi-Model-Fusion-Framework,A multi-model fusion framework to boost the performance of the neural networks.,https://github.com/ahucv/Multi-Model-Fusion-Framework,5,0,framework,python,updated,desc
+SoleyIo/dtflw,dtflw is a Python framework for building modular data pipelines based on Databricks dbutils.notebook API.,https://github.com/SoleyIo/dtflw,5,1,framework,python,updated,desc
+miguelcarcamov/csromer,Compressive Sensing and Optimization Framework to reconstruct Faraday Depth signals,https://github.com/miguelcarcamov/csromer,5,3,framework,python,updated,desc
+zhiguoxu/flowx,"A lightweight framework for building LLM applications, with similar interface as LangChain, but more concise internal implementation.",https://github.com/zhiguoxu/flowx,5,2,framework,python,updated,desc
+viniciusfeitosa/pychecko,The PyChecko is a MicroFramework to compose an instance in execution time by rules predefined.,https://github.com/viniciusfeitosa/pychecko,5,0,framework,python,updated,desc
+MGokcayK/gNet,mini Deep Learning Library ,https://github.com/MGokcayK/gNet,5,0,framework,python,updated,desc
+nareshnavinash/Selpy-Python,"Page Object Model Framework for Selenium in pytest, python and allure reporting with snapshot feature",https://github.com/nareshnavinash/Selpy-Python,5,7,framework,python,updated,desc
+tjyuyao/ice-learn,A high-level Deep Learning framework that extends PyTorch and PyCUDA.,https://github.com/tjyuyao/ice-learn,5,0,framework,python,updated,desc
+jla-gardner/graph-pes,train and use graph-based ML models of potential energy surfaces,https://github.com/jla-gardner/graph-pes,5,0,framework,python,updated,desc
+natbusa/datafaucet,Productivity Utilities for Data Science with Python Notebooks,https://github.com/natbusa/datafaucet,5,3,framework,python,updated,desc
+baka-framework/baka,Baka Framework  adalah web application framework yang menggunakan core wsgi dari Pyramid.,https://github.com/baka-framework/baka,5,0,framework,python,updated,desc
+josuebrunel/spewe,Just another lil Python Web Framework closer to a spew than a framework :smile: (Not on PyPi yet),https://github.com/josuebrunel/spewe,5,0,framework,python,updated,desc
+zeaphoo/reston,Reverse engine framework,https://github.com/zeaphoo/reston,5,2,framework,python,updated,desc
+cobraframework/cobra-hdwallet,It's HDWallet Generator for Ethereum blockchain.,https://github.com/cobraframework/cobra-hdwallet,5,0,framework,python,updated,desc
+unisi-tech/unisi,"Unified System Interface,  framework, server, GUI and Remote API",https://github.com/unisi-tech/unisi,5,0,framework,python,updated,desc
+Furyforev3r/Rob-Engine,"The Rob Engine is a powerful and accessible game engine developed in Python, utilizing the popular Pygame library. Designed for developers of all levels, from beginners to seasoned veterans, the Rob Engine offers a robust platform for creating dynamic and interactive 2D games.",https://github.com/Furyforev3r/Rob-Engine,5,0,framework,python,updated,desc
+Base4Security/DOLOS-T,"Deceptive Operations: Lure, Observe, and Secure Tool",https://github.com/Base4Security/DOLOS-T,5,1,framework,python,updated,desc
+dhhruv/Compresssio,Streamline/Optimize your Images to save storage space...,https://github.com/dhhruv/Compresssio,5,2,framework,python,updated,desc
+AidenEllis/Cligo,🧇 CLI Go - A Python CLI Framework for creating command line interface.,https://github.com/AidenEllis/Cligo,5,0,framework,python,updated,desc
+lifeinaglasshouse/Pjono,"Pjono, a web framework",https://github.com/lifeinaglasshouse/Pjono,5,0,framework,python,updated,desc
+KangruiYuan/XQuant,Quantitative research framework,https://github.com/KangruiYuan/XQuant,5,2,framework,python,updated,desc
+Bumshakalaka/krAIna,Set of AI-powered tools for everyday use,https://github.com/Bumshakalaka/krAIna,5,0,framework,python,updated,desc
+nawah-io/nawah_framework,Nawah Framework--Rapid App Development Framework,https://github.com/nawah-io/nawah_framework,5,0,framework,python,updated,desc
+witchard/grole,A simple python (3.5+) asyncio based web framework,https://github.com/witchard/grole,5,2,framework,python,updated,desc
+ahopkins/asynccli, A CLI framework based on asyncio,https://github.com/ahopkins/asynccli,5,0,framework,python,updated,desc
+themusharraf/allnc,Python Web Framework built for learning purposes,https://github.com/themusharraf/allnc,5,0,framework,python,updated,desc
+iwakuraLainWired/Nebula,Its Framework for Android Debug Bridge,https://github.com/iwakuraLainWired/Nebula,5,0,framework,python,updated,desc
+py-stollen/stollen,An asynchronous framework to easily build a client-side API.,https://github.com/py-stollen/stollen,5,0,framework,python,updated,desc
+Cestra/pyCestra,a learning project,https://github.com/Cestra/pyCestra,5,1,framework,python,updated,desc
+deitry/testcomplete-ts-api,Set of TypeScript modules and Python code generating scripts that allows to use power of type checking in straight JavaScript TestComplete projects,https://github.com/deitry/testcomplete-ts-api,5,2,framework,python,updated,desc
+MaksimZayats/easy-dialogs,A mini-framework for creating chatbots. Facilitates the creation of relationships and transitions between scenes (states).,https://github.com/MaksimZayats/easy-dialogs,5,0,framework,python,updated,desc
+saapooch/Flask-Boilerplate,A skeleton repository for developing web applications with Flask,https://github.com/saapooch/Flask-Boilerplate,5,1,framework,python,updated,desc
+gabriel-milan/sailboat-playground,A very simple framework for developing autonomous sailing algorithms and testing them with 2D simulations/visualizations.,https://github.com/gabriel-milan/sailboat-playground,5,1,framework,python,updated,desc
+estuary-ai/mangrove,"Mangrove is the backend module of Estuary, a framework for building multimodal real-time Socially Intelligent Agents (SIAs).",https://github.com/estuary-ai/mangrove,5,0,framework,python,updated,desc
+o3bvv/verboselib,A library with CLI tools allowing to add i18n and l10n to Python apps and libs with ease,https://github.com/o3bvv/verboselib,5,0,framework,python,updated,desc
+TachyonicProject/luxon,Luxon Framework for rapid application development. ,https://github.com/TachyonicProject/luxon,5,2,framework,python,updated,desc
+angadsingh/airflow-ditto,An airflow DAG transformation framework,https://github.com/angadsingh/airflow-ditto,5,1,framework,python,updated,desc
+gecad-group/peak-mas,PEAK is a framework to build and manage multiagent ecosystems.,https://github.com/gecad-group/peak-mas,5,3,framework,python,updated,desc
+TACC/benchpro,"An automation and standardization utility for compiling applications, running benchmarks and collecting results.",https://github.com/TACC/benchpro,5,0,framework,python,updated,desc
+fabricks-framework/fabricks,,https://github.com/fabricks-framework/fabricks,5,0,framework,python,updated,desc
+baroquehq/baroque,Baroque is an event brokering framework with a honey-sweet interface,https://github.com/baroquehq/baroque,5,2,framework,python,updated,desc
+adambudziak/grpez,gRPC in Python made eazy,https://github.com/adambudziak/grpez,5,0,framework,python,updated,desc
+ricardo-agz/pyrails,"PyRails is a lightweight, opinionated, batteries-included Python web framework built on top of FastAPI and MongoEngine",https://github.com/ricardo-agz/pyrails,5,0,framework,python,updated,desc
+pluggdapps/pluggdapps,Pluggable meta framework in python.,https://github.com/pluggdapps/pluggdapps,5,0,framework,python,updated,desc
+miquido/haiway,Framework for building python applications. The project was made by Miquido: https://www.miquido.com/,https://github.com/miquido/haiway,5,0,framework,python,updated,desc
+sheepkiller/dcos-rabbitmq,"RabbitMQ autocluster framework for DC/OS, built with dcos-commons",https://github.com/sheepkiller/dcos-rabbitmq,5,1,framework,python,updated,desc
+dotAadarsh/30DaysOfStreamlit,Initiative to learn Streamlit,https://github.com/dotAadarsh/30DaysOfStreamlit,5,1,framework,python,updated,desc
+airscripts/cacca,"A workflow framework, easy as shit.",https://github.com/airscripts/cacca,5,0,framework,python,updated,desc
+Martmists-GH/pymixin,Python code injection framework,https://github.com/Martmists-GH/pymixin,5,0,framework,python,updated,desc
+eduardomourar/python-functionapprest,Python micro web framework for Azure Functions,https://github.com/eduardomourar/python-functionapprest,4,0,framework,python,updated,desc
+Ryan-Rudd/Zenith,🚀 Zenith is a powerful Python framework that revolutionizes web development by enabling declarative and efficient UI components for building interactive and scalable websites.,https://github.com/Ryan-Rudd/Zenith,4,0,framework,python,updated,desc
+CorndogMillionaire/HyperSwarm,A hypergraph based multi-agent framework,https://github.com/CorndogMillionaire/HyperSwarm,4,0,framework,python,updated,desc
+kevbuh/froog,A beautifully compact and minimal tensor library built in under 1000 lines,https://github.com/kevbuh/froog,4,0,framework,python,updated,desc
+foundation-model-stack/fms-model-optimizer,FMS Model Optimizer is a framework for developing reduced precision neural network models.,https://github.com/foundation-model-stack/fms-model-optimizer,4,4,framework,python,updated,desc
+moqsien/scrapx,scrapy定制版; A customized and enhanced version of scrapy for managing hundreds or even thousands of spiders.,https://github.com/moqsien/scrapx,4,0,framework,python,updated,desc
+kraglik/stardust,A simple  asyncio-based actor framework,https://github.com/kraglik/stardust,4,0,framework,python,updated,desc
+LowieHuyghe/edmunds-python,Edmunds is a Flask based framework for building web applications with a firm structure to start from.,https://github.com/LowieHuyghe/edmunds-python,4,1,framework,python,updated,desc
+kwoolter/TRPGFramework,Framework for building text adventure games.  MegaQuest included!,https://github.com/kwoolter/TRPGFramework,4,0,framework,python,updated,desc
+informaticameg/Plasta,Framework in Python for rapid deployment of CRUD operations,https://github.com/informaticameg/Plasta,4,2,framework,python,updated,desc
+Matteo0810/asita,web application framework for python,https://github.com/Matteo0810/asita,4,0,framework,python,updated,desc
+shenxingchao/qt-for-python-qss,"pyqt5,pyside2,pyside6 qss-framework",https://github.com/shenxingchao/qt-for-python-qss,4,0,framework,python,updated,desc
+Martmists-GH/pyasm,Python bytecode modification library,https://github.com/Martmists-GH/pyasm,4,1,framework,python,updated,desc
+free-free/pyblog,A blog system written in python,https://github.com/free-free/pyblog,4,1,framework,python,updated,desc
+ClementJ18/pyzork,An extensible text adventure library,https://github.com/ClementJ18/pyzork,4,0,framework,python,updated,desc
+tum-ens/pyPRIMA,python PReprocessing of Inputs for Model frAmeworks,https://github.com/tum-ens/pyPRIMA,4,4,framework,python,updated,desc
+Materials-Data-Science-and-Informatics/metador-core,"Core of Metador, the FAIR metadata-first research data management framework.",https://github.com/Materials-Data-Science-and-Informatics/metador-core,4,0,framework,python,updated,desc
+divbzero/aioserver,An async web framework for humans,https://github.com/divbzero/aioserver,4,1,framework,python,updated,desc
+sql-assurance/sql-assurance,Scheduled xSQL Testing Framework,https://github.com/sql-assurance/sql-assurance,4,0,framework,python,updated,desc
+gustavosantaella/pylon,Python framework,https://github.com/gustavosantaella/pylon,4,1,framework,python,updated,desc
+wexample/wex,Streamline your bash scripts with wex,https://github.com/wexample/wex,4,4,framework,python,updated,desc
+kusanagi/katana-sdk-python3,Python 3 SDK for the KATANA Framework,https://github.com/kusanagi/katana-sdk-python3,4,1,framework,python,updated,desc
+Arshiatmi/Pysha,Pysha is a Micro Framework For better experience in programming.Pysha helps you To Do Something Beautiful In Python :),https://github.com/Arshiatmi/Pysha,4,1,framework,python,updated,desc
+AaravMalani/PlugAPI,"A lightweight, speedy HTTP(S) framework",https://github.com/AaravMalani/PlugAPI,4,0,framework,python,updated,desc
+AjaiJA/Django-PostgreSQL-Connection,Simple Application with Register and Login functions using Django and PostgreSQL,https://github.com/AjaiJA/Django-PostgreSQL-Connection,4,0,framework,python,updated,desc
+dev-hd11/pytextgame,Use this library to create multi genre console-based RPG & other types of games. ,https://github.com/dev-hd11/pytextgame,4,1,framework,python,updated,desc
+thecodedmind/AthenaOS,An extendable desktop assistant for Linux. Currently heavily work-in-progress.,https://github.com/thecodedmind/AthenaOS,4,0,framework,python,updated,desc
+kusanagi/katana-sdk-python2,Python 2 SDK for the KATANA Framework,https://github.com/kusanagi/katana-sdk-python2,4,2,framework,python,updated,desc
+Godhart/fvf,Concept of Python-based Formal Verification Framework,https://github.com/Godhart/fvf,4,0,framework,python,updated,desc
+KemoPanzah/decore_Base,"decore Base is an out-of-the-box ""Python to Vue.js"" data application dashboard that helps you go from idea to view in a few simple steps. It is aimed at those who want to focus on the results of their algorithms , do scientific work, or perform teaching or learning functions.",https://github.com/KemoPanzah/decore_Base,4,0,framework,python,updated,desc
+sqz269/BooruScraper,A Framework as well as some scrapers for anime style image hosting websites such as pixiv and danbooru,https://github.com/sqz269/BooruScraper,4,1,framework,python,updated,desc
+rickstaa/ros-gazebo-gym-ws,A Catkin workspace designed to simplify the setup and use of the ROS Gazebo Gym framework.,https://github.com/rickstaa/ros-gazebo-gym-ws,4,1,framework,python,updated,desc
+marcy-terui/jeffy,"Serverless ""Application"" Framework for Python",https://github.com/marcy-terui/jeffy,4,14,framework,python,updated,desc
+addtt/boiler-pytorch,Basic framework for model training and evaluation in PyTorch.,https://github.com/addtt/boiler-pytorch,4,3,framework,python,updated,desc
+micheltlutz/Winged-Python,Python HTML Made Simple and Powerful,https://github.com/micheltlutz/Winged-Python,4,0,framework,python,updated,desc
+polfeliu/CCG,C/C++ Code Generation,https://github.com/polfeliu/CCG,4,2,framework,python,updated,desc
+mydroidandi/commbase,🤖✨ Dialog-first platform for developing interactive AI-Powered assistant-like applications on Linux,https://github.com/mydroidandi/commbase,4,1,framework,python,updated,desc
+qq456cvb/Perception3D,,https://github.com/qq456cvb/Perception3D,4,2,framework,python,updated,desc
+hoang1007/lightning-accelerate,Easy to train and use Pytorch models with 🤗's Accelerate and Lightning's style⚡️,https://github.com/hoang1007/lightning-accelerate,4,0,framework,python,updated,desc
+mrprogrammer2938/Hack-Framework,Hacking Framework !,https://github.com/mrprogrammer2938/Hack-Framework,4,3,framework,python,updated,desc
+mwiatrzyk/pydio,Simple and functional dependency injection toolkit for Python,https://github.com/mwiatrzyk/pydio,4,0,framework,python,updated,desc
+neutpy/neut,A Full-Stack Asynchronous Web Framework based on FastAPI,https://github.com/neutpy/neut,4,1,framework,python,updated,desc
+ygrip/saleor-custom,This is a customized saleor framework for E-commerce. For the original source of saleor framework please refer to : https://github.com/mirumee/saleor,https://github.com/ygrip/saleor-custom,4,1,framework,python,updated,desc
+heizelnut/hawkloon,🦅 Python framework to build synchronous workers.,https://github.com/heizelnut/hawkloon,4,0,framework,python,updated,desc
+heminsatya/aurora,Aurora is an MVC structured web framework for creating RESTFUL CRUD applications quickly and simply,https://github.com/heminsatya/aurora,4,0,framework,python,updated,desc
+nicolay-r/Reasoning-for-Sentiment-Analysis-Framework,"The official code for CoT / ZSL reasoning framework 🧠, utilized in paper: ""Large Language Models in Targeted Sentiment Analysis in Russian""",https://github.com/nicolay-r/Reasoning-for-Sentiment-Analysis-Framework,4,1,framework,python,updated,desc
+shiroyuki/Imagination,Java Beans-inspired Dependency Injection Framework for Python,https://github.com/shiroyuki/Imagination,4,2,framework,python,updated,desc
+kamuridesu/ICQBotPy,ICQ New bot framework with ease-to-use interface to quickly create bots,https://github.com/kamuridesu/ICQBotPy,4,1,framework,python,updated,desc
+iinsertNameHere/Pilotica,A Postexploitation HTTP Command and Control Framework,https://github.com/iinsertNameHere/Pilotica,4,0,framework,python,updated,desc
+DVNghiem/Hypern,"Hypern is an open-source framework designed to accelerate high-performance web development. Its flexible architecture and robust features empower developers to easily build scalable APIs, microservices, and full-stack applications.",https://github.com/DVNghiem/Hypern,4,0,framework,python,updated,desc
+ysyisyourbrother/brandnew-flask,Brandnew-flask is a CLI tool used to generate a powerful and mordern flask-app that supports the production environment. ❤️（Brandnew-flask 是一个为flask应用程序开发者设计的脚手架工具。它可以快速生成适用于生产环境的，高效、规范且易于维护的flask应用程序框架。）,https://github.com/ysyisyourbrother/brandnew-flask,3,0,framework,python,updated,desc
+shiroyuki/gallium,A collection of tools for (rapid) Python application development,https://github.com/shiroyuki/gallium,3,0,framework,python,updated,desc
+srccircumflex/TheVTPyProject,"Python library for creating text-based user interfaces (TUI) based on ANSI escape sequences and modifying the emulator (unblocked stdin, disabling implemented functions, ...).",https://github.com/srccircumflex/TheVTPyProject,3,0,framework,python,updated,desc
+amigos-do-gesiel/average,Framework para acompanhamento e visualização de Estatísticas,https://github.com/amigos-do-gesiel/average,3,2,framework,python,updated,desc
+neemiasbsilva/django-api-computer-vision,MVISIA coding interview using Django,https://github.com/neemiasbsilva/django-api-computer-vision,3,1,framework,python,updated,desc
+RAZZULLIX/raz,.raz compression algorithm,https://github.com/RAZZULLIX/raz,3,0,framework,python,updated,desc
+Bynaryman/SUF,SUF is a SUperset Framework for OpenROAD that acts as an enhancement graft by augmenting the original capabilities.,https://github.com/Bynaryman/SUF,3,0,framework,python,updated,desc
+TimJentzsch/optiframe,A modular framework for mixed integer programming.,https://github.com/TimJentzsch/optiframe,3,0,framework,python,updated,desc
+leolani/cltl-combot,CLTL Leolani Combot provides the framework for applications that implement human-robot interaction with conversation,https://github.com/leolani/cltl-combot,3,0,framework,python,updated,desc
+vmenger/docdeid,"Create your own document de-identifier using docdeid, a simple framework independent of language or domain.",https://github.com/vmenger/docdeid,3,2,framework,python,updated,desc
+natanfeitosa/lespy,A small and robust python micro framework for building simple and solid web apps.,https://github.com/natanfeitosa/lespy,3,0,framework,python,updated,desc
+sasha-tkachev/venty,Event-driven tooling built around CloudEvents,https://github.com/sasha-tkachev/venty,3,0,framework,python,updated,desc
+AlexFlipnote/discord_bot.http,🍺 A simple discord bot that helps you getting started within discord.http,https://github.com/AlexFlipnote/discord_bot.http,3,0,framework,python,updated,desc
+AidinHamedi/Python-CLI-toolkit,"This Python CLI Toolkit is a powerful tool for creating command-line interfaces (CLI) with Python. It provides a framework for defining commands, handling user input, and managing modules.",https://github.com/AidinHamedi/Python-CLI-toolkit,3,0,framework,python,updated,desc
+camilonar/DILF,Framework for Incremental Learning in Deep Learning using TensorFlow,https://github.com/camilonar/DILF,3,4,framework,python,updated,desc
+rhazra-003/Moody_WhatsApp_Bot,A chatbot for WhatsApp using the Twilio API for WhatsApp and the Flask framework for Python,https://github.com/rhazra-003/Moody_WhatsApp_Bot,3,0,framework,python,updated,desc
+KovenYu/reid_proj_framework,person reid project framework,https://github.com/KovenYu/reid_proj_framework,3,2,framework,python,updated,desc
+breitburg/period,Games and apps development framework for Period smartwatches,https://github.com/breitburg/period,3,0,framework,python,updated,desc
+nicklashansen/smallrl,Personal repository for quick RL prototyping. Work in progress!,https://github.com/nicklashansen/smallrl,3,0,framework,python,updated,desc
+pysashapy/fasttower,Django-like framework based on FastAPI,https://github.com/pysashapy/fasttower,3,0,framework,python,updated,desc
+RyanKung/jirachi,jirachi is an IO framework based on actor model,https://github.com/RyanKung/jirachi,3,0,framework,python,updated,desc
+thevahidal/another,"🕳️ ""Another"" Python backend framework, for fun.",https://github.com/thevahidal/another,3,0,framework,python,updated,desc
+GrantBirki/errbot-launchpad,"Quickly deploy a chatbot with Errbot, Dockerized! 🐳",https://github.com/GrantBirki/errbot-launchpad,3,0,framework,python,updated,desc
+liaoyanqing666/Basic_Pytorch,一个简单的基本pytorch程序框架，A simple basic pytorch framework,https://github.com/liaoyanqing666/Basic_Pytorch,3,0,framework,python,updated,desc
+Maddosaurus/MLT,The Machine Learning Toolkit,https://github.com/Maddosaurus/MLT,3,0,framework,python,updated,desc
+sheepgrass/cpp_project_framework,C++ Project Framework is a framework for creating C++ project.,https://github.com/sheepgrass/cpp_project_framework,3,2,framework,python,updated,desc
+islekcaganmert/bevyframe,"Python Web Framework that turns your Python scripts to a web page. With decentralized features integrated, it makes programming easier than ever.",https://github.com/islekcaganmert/bevyframe,3,0,framework,python,updated,desc
+realmar/Tamandua,Logfile aggregation framework,https://github.com/realmar/Tamandua,3,0,framework,python,updated,desc
+vypiemzalyubov/api-testing-framework,"This project implements a framework to automate testing of the ""Send Request"" API using Python and Pytest",https://github.com/vypiemzalyubov/api-testing-framework,3,2,framework,python,updated,desc
+myersguo/miuitest,UiTest Based On Selenium and Appium,https://github.com/myersguo/miuitest,3,0,framework,python,updated,desc
+rowanthorpe/gaidaros,MIGRATED TO https://vcs.rowanthorpe.com/rowan/gaidaros - THIS IS AN ARCHIVED VERSION... Async server micro-framework for control freaks,https://github.com/rowanthorpe/gaidaros,3,0,framework,python,updated,desc
+wvoliveira/fasrq,Fast API + rqlite with authentication. Just a test.,https://github.com/wvoliveira/fasrq,3,0,framework,python,updated,desc
+1nfocalypse/Reason,Ultima Ratio Regum. Reason is a FOSS preexploitation framework written in Python allowing for customizable and automated OSINT gathering. ,https://github.com/1nfocalypse/Reason,3,0,framework,python,updated,desc
+BPChain/blockchain-statistics-readout,This module is a framework for reading statistics from a blockchain and sending it to a server,https://github.com/BPChain/blockchain-statistics-readout,3,0,framework,python,updated,desc
+pakal/compat-patcher-core,A machinery which allows easy and long-term compatibility for your fast-moving API!,https://github.com/pakal/compat-patcher-core,3,1,framework,python,updated,desc
+karthiksuki/Jovian-Automation,Jovian Automation (jktool),https://github.com/karthiksuki/Jovian-Automation,3,0,framework,python,updated,desc
+fmarco/django-lite,A lightweight version of Django,https://github.com/fmarco/django-lite,3,0,framework,python,updated,desc
+Bishwas-py/QuAPI,Quickest Python API,https://github.com/Bishwas-py/QuAPI,3,1,framework,python,updated,desc
+PyNetic/PyNetic,A complete frontend framework built for Python! No JavaScript needed!,https://github.com/PyNetic/PyNetic,3,1,framework,python,updated,desc
+B4PT0R/reflex_wrapper,A wrapper on top of reflex library to ease creating custom components as well as adding syntactic sugar to setup and interact with components after they are instantiated.,https://github.com/B4PT0R/reflex_wrapper,3,0,framework,python,updated,desc
+AlbertoVelascoMata/afml,"AFML is a tool to automate your machine learning flow, easing the process of switching between datasets and models",https://github.com/AlbertoVelascoMata/afml,3,0,framework,python,updated,desc
+tbrugere/yabd,Yet another brightness daemon,https://github.com/tbrugere/yabd,3,0,framework,python,updated,desc
+robinsax/canvas,A full stack framework for modern web applications,https://github.com/robinsax/canvas,3,0,framework,python,updated,desc
+LeslieZhoa/OPENGL-FRAMEWORK-PYTHON,This is a convenient and extensible Python OpenGL framework. You can easily refer to the example shader to realize the custom rendering function,https://github.com/LeslieZhoa/OPENGL-FRAMEWORK-PYTHON,3,1,framework,python,updated,desc
+shaharluftig/spine,Spine: the backbone of your data pipeline.,https://github.com/shaharluftig/spine,3,0,framework,python,updated,desc
+yorevs/hspylib,This is a library for creating Real and Serious python applications. It uses gradle to build and manage the project. Many CLI improvements are also available for use. New input methods and ways to show options to the user.,https://github.com/yorevs/hspylib,3,1,framework,python,updated,desc
+RavinduHasithanjana/Throtale---Expert-System-for-Automating-API-Throttling,Throtale is a Automated API throttling system (Rate-limiting) open source project it will predict dynamically the rate limit at particular time periods.  ,https://github.com/RavinduHasithanjana/Throtale---Expert-System-for-Automating-API-Throttling,3,0,framework,python,updated,desc
+nnnnnzo/AudioFileTranslator,*AFT is an audio translator nano framework* based on python who transcribe and translate an audio file to another language.,https://github.com/nnnnnzo/AudioFileTranslator,3,0,framework,python,updated,desc
+jhy354/PygameDemo,An elegant demo for Pygame beginners / Pygame 开发模板,https://github.com/jhy354/PygameDemo,3,0,framework,python,updated,desc
+gizmore/pygdo,GDOv8 reference implementation in Python3 (Properitary sourcecode!),https://github.com/gizmore/pygdo,3,0,framework,python,updated,desc
+u93/multa-cdkrecipies,AWS CDK Python recipes for fast development. Oriented towards IoT services and serverless infrastructures.,https://github.com/u93/multa-cdkrecipies,3,0,framework,python,updated,desc
+cpp-e/liteapi,lite Python API Framework,https://github.com/cpp-e/liteapi,3,1,framework,python,updated,desc
+theconsolelogger/limberframework,"The core of the Limber Framework, a python web application framework built using FastAPI.",https://github.com/theconsolelogger/limberframework,3,0,framework,python,updated,desc
+miron/NeonCore,Terminal based Cyberpunk Tabletop RPG with Nostr as database and openAI API compatible commands,https://github.com/miron/NeonCore,3,1,framework,python,updated,desc
+llllTnTlll/EarlyBird,基于机器视觉的脚本框架,https://github.com/llllTnTlll/EarlyBird,3,3,framework,python,updated,desc
+KentAugust/pgcrow,pgcrow is a pygame framework for making simple games,https://github.com/KentAugust/pgcrow,3,1,framework,python,updated,desc
+stckme/apphelpers,Commonly needed Python helper libraries to build python (web) apps,https://github.com/stckme/apphelpers,3,5,framework,python,updated,desc
+oresat/oresat-olaf,A pythonic CANopen application framework for all OreSat Linux boards,https://github.com/oresat/oresat-olaf,3,2,framework,python,updated,desc
+Kentzo/async_app,AsyncIO application as a hierarchy of services,https://github.com/Kentzo/async_app,3,0,framework,python,updated,desc
+d-Raco/shopping-bot-framework,Modular bot for checking and purchasing stock in online stores,https://github.com/d-Raco/shopping-bot-framework,3,1,framework,python,updated,desc
+GaryHo34/SeattleBot,This is a simple ChatBot implemented with FastAPI. It aims to provide a easy-to-use framework for developers to develop their own messenger chatBot in a short time.,https://github.com/GaryHo34/SeattleBot,3,0,framework,python,updated,desc
+MacHu-GWU/afwf-project,A powerful framework enables fast and elegant development of Alfred Workflows in Python.,https://github.com/MacHu-GWU/afwf-project,3,0,framework,python,updated,desc
+cyanochroite/celestine,A python framework for desktop applications. Featuring support for multiple graphical user interfaces. Supports all languages of the European Union.,https://github.com/cyanochroite/celestine,3,0,framework,python,updated,desc
+krypton-byte/thundra-io,Thundra is a framework designed to streamline the development of WhatsApp bots and automations. It provides a solid foundation and abstraction layer to simplify the process of creating and managing WhatsApp bots for various purposes.,https://github.com/krypton-byte/thundra-io,3,1,framework,python,updated,desc
+SabujXi/SynamicX,"Rearchitecting Synamic as SynamicX - An advanced hybrid (static+dynamic) web application framework, library and tool",https://github.com/SabujXi/SynamicX,3,1,framework,python,updated,desc
+peterjpxie/pytest_selenium_framework,A homemade Python pytest + selenium test framework example,https://github.com/peterjpxie/pytest_selenium_framework,3,0,framework,python,updated,desc
+monolix/effekt,⇄ ⚙️ Event Driven Programming framework for Python.,https://github.com/monolix/effekt,3,0,framework,python,updated,desc
+hadpro24/nimba-framework,"Nimba is a python web framework for lazy developers, just focus on your codes.",https://github.com/hadpro24/nimba-framework,3,2,framework,python,updated,desc
+im-afan/lightnet,lightweight neural network library for python,https://github.com/im-afan/lightnet,3,0,framework,python,updated,desc
+frodo821/groom,A easy-to-use command-line interface generator,https://github.com/frodo821/groom,3,0,framework,python,updated,desc
+michelgokan/perfsim,A discrete-event simulator and digital twinning platform for cloud native service chains,https://github.com/michelgokan/perfsim,3,1,framework,python,updated,desc
+bykof/draper,A python web framework,https://github.com/bykof/draper,2,0,framework,python,updated,desc
+ThomasTheSpaceFox/Strazoloid-windowing-framework,Strazoloid is a virtual window manager for pygame applications & games. Useful for creating custom multi-window enviornments. such as with many 2D simulation games.,https://github.com/ThomasTheSpaceFox/Strazoloid-windowing-framework,2,0,framework,python,updated,desc
+diquah/modeval,Modeval (or Modular Eval) is a modular and secure string evaluation library that can be used to create custom parsers or interpreters.,https://github.com/diquah/modeval,2,1,framework,python,updated,desc
+n0rthin/mycelium,A framework for creating multi-agent LLM-based systems,https://github.com/n0rthin/mycelium,2,0,framework,python,updated,desc
+pyrustic/tkf,Tkinter-based framework to build Python apps,https://github.com/pyrustic/tkf,2,1,framework,python,updated,desc
+Kaal-xD/pyromodz,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",https://github.com/Kaal-xD/pyromodz,2,3,framework,python,updated,desc
+carefree0910/carefree-core,Meta framework for Deep Learning frameworks with PyTorch.,https://github.com/carefree0910/carefree-core,2,0,framework,python,updated,desc
+QuadDarv1ne/music_player_flet,A music player application built with the Flet Framework,https://github.com/QuadDarv1ne/music_player_flet,2,0,framework,python,updated,desc
+yfaway/zone-apis,Reusable Home Automation rules for OpenHab via HABapp.,https://github.com/yfaway/zone-apis,2,1,framework,python,updated,desc
+YanHuiLi/AndroidOpenSourceFrameworkTest,,https://github.com/YanHuiLi/AndroidOpenSourceFrameworkTest,2,1,framework,python,updated,desc
+smarie/python-parsyfiles,"A declarative framework to read complex objects made of several files, supporting pluggable parsers and alternate file formats for the same object type. A typical use case is to read collections of test cases on the file system.",https://github.com/smarie/python-parsyfiles,2,1,framework,python,updated,desc
+Oscar-Tark/Squirrel-EES,Squirrel Execution Engine Server,https://github.com/Oscar-Tark/Squirrel-EES,2,0,framework,python,updated,desc
+victorbadenas/frarch,Framework for Pytorch experiments,https://github.com/victorbadenas/frarch,2,0,framework,python,updated,desc
+iamansoni/Django-ProjectYard,An assortment of projects made using Django Framework.,https://github.com/iamansoni/Django-ProjectYard,2,0,framework,python,updated,desc
+AbEC-EC/AbEC,AbEC - Adjustable Evolutionary Components: A Component-based Framework for Research and Development in Static and Dynamic Evolutionary Computation,https://github.com/AbEC-EC/AbEC,2,0,framework,python,updated,desc
+s-raza/ratesbot,Simple telegram bot that can be used to track rates of tradeables (e.g. Gold) and send notifications on Telegram if the rate of a tradeable changes.,https://github.com/s-raza/ratesbot,2,2,framework,python,updated,desc
+HakierGrzonzo/socpi,A simple unix socket python framework,https://github.com/HakierGrzonzo/socpi,2,0,framework,python,updated,desc
+kusanagi/kusanagi-sdk-python,Python SDK for the KUSANAGI framework,https://github.com/kusanagi/kusanagi-sdk-python,2,1,framework,python,updated,desc
+jjj999/bamboo,General purpose framework for web apps.,https://github.com/jjj999/bamboo,2,0,framework,python,updated,desc
+wilfredpine/python-form-validators,Customized form validations for python web development.,https://github.com/wilfredpine/python-form-validators,2,0,framework,python,updated,desc
+tory1103/cibertoolkit,Automated pentesting framework build in python,https://github.com/tory1103/cibertoolkit,2,1,framework,python,updated,desc
+gapolli/MSBox,"ST001 project that is taught at the Unicamp School of Technology (FT). The project consists of queries to databases that are on the Internet - primarily in HTML format - and database queries that are in Resource Description Framework (RDF) format. First, an RDF Turtle file is generated containing the crawled web data, and then the existing ontologies and features are added to this file.",https://github.com/gapolli/MSBox,2,0,framework,python,updated,desc
+foxygen-d/scrapy_parser_pep,🖥 Асинхронный парсер PEP,https://github.com/foxygen-d/scrapy_parser_pep,2,0,framework,python,updated,desc
+Arya-ai/hydra,A FastAPI + Celery framework,https://github.com/Arya-ai/hydra,2,1,framework,python,updated,desc
+ImamHossainRoni/pykite,PyKite represents a research and development endeavor aimed at crafting a Python-centric micro framework initiative.,https://github.com/ImamHossainRoni/pykite,2,1,framework,python,updated,desc
+NewAlpha-VNet/NewAlpha,An Easy to use Open-Source Virtual Networking Framework for Python. Including Switches and Clients/Servers.,https://github.com/NewAlpha-VNet/NewAlpha,2,1,framework,python,updated,desc
+1r21/taishan,"provide english information,songs,etc.",https://github.com/1r21/taishan,2,0,framework,python,updated,desc
+codeverything/radox,A micro web-framework for python web applications.,https://github.com/codeverything/radox,2,6,framework,python,updated,desc
+spyel/vines,"A lightweight, high-performance Python Web Framework built on the ASGI standard. 🌿",https://github.com/spyel/vines,2,0,framework,python,updated,desc
+Code-Society-Lab/grace-framework,Extensible Discord bot framework written in Python,https://github.com/Code-Society-Lab/grace-framework,2,0,framework,python,updated,desc
+shatalovdm/food_diary,"My application powered by web2py, the framework written in Python",https://github.com/shatalovdm/food_diary,2,0,framework,python,updated,desc
+aak1247/pydatatest,Data driven python test framework. 数据驱动的Python测试框架,https://github.com/aak1247/pydatatest,2,1,framework,python,updated,desc
+kraglik/machine,A simple web framework written in Python 3,https://github.com/kraglik/machine,2,0,framework,python,updated,desc
+svatkowski/tailsploit-framework,Tailsploit Framework - A powerful and educational tool designed for acquiring insights into botnet functionality. (Early Stage Development),https://github.com/svatkowski/tailsploit-framework,2,0,framework,python,updated,desc
+AuraiProject/freesia,Freesia is a concise and lightweight async web framework that integrates some common components. ✨,https://github.com/AuraiProject/freesia,2,0,framework,python,updated,desc
+AjaiJA/Django-Sessions,Registration and Login Page using Django Sessions,https://github.com/AjaiJA/Django-Sessions,2,0,framework,python,updated,desc
+DvaKompota/FETA-PyTest-Selenium,Front End Test Automation with Pytest Framework,https://github.com/DvaKompota/FETA-PyTest-Selenium,2,0,framework,python,updated,desc
+Webezy-io/webezyio,gRPC Framework Built With Python CLI,https://github.com/Webezy-io/webezyio,2,0,framework,python,updated,desc
+primal-coder/entyty,entyty is a Python module for managing entities!,https://github.com/primal-coder/entyty,2,0,framework,python,updated,desc
+alttch/webauth,flask auth/oauth wrapper,https://github.com/alttch/webauth,2,0,framework,python,updated,desc
+fire-cracker/myBlog,My Blog,https://github.com/fire-cracker/myBlog,2,0,framework,python,updated,desc
+Creativity-Hub/create_flask_app,Your own Flask app in less than a second.,https://github.com/Creativity-Hub/create_flask_app,2,0,framework,python,updated,desc
+python-telegrambots/custom-telegrambots,A custom extension package for telegrambots,https://github.com/python-telegrambots/custom-telegrambots,2,0,framework,python,updated,desc
+nikhil-swamix/IndiaTools,"Hyper Fast,multi purpose, Python Templating Engine. Build shit from scratch, and fast. using modulex.",https://github.com/nikhil-swamix/IndiaTools,2,2,framework,python,updated,desc
+jsomville/pygame_framework,This project is a first iteration of a framework for pygame development.  This provide code structure and the ability to use scenes in an efficient way. ,https://github.com/jsomville/pygame_framework,2,0,framework,python,updated,desc
+Simoso68/backpipe,Backend HTTP framework for Python.,https://github.com/Simoso68/backpipe,2,0,framework,python,updated,desc
+lxxr/bitrixogram,"simple async bitrix chat bot framework in ""aiogram""-style",https://github.com/lxxr/bitrixogram,2,0,framework,python,updated,desc
+gersonfreire/telegram_framework_bolt,A powerful and extensible Python-based Telegram bot framework,https://github.com/gersonfreire/telegram_framework_bolt,2,0,framework,python,updated,desc
+QuecPython/QFrame,A application programming framework of QuecPython.,https://github.com/QuecPython/QFrame,2,2,framework,python,updated,desc
+AverageMisesian/EasyGUI,Framework allows you to build GUI Desktop applications,https://github.com/AverageMisesian/EasyGUI,2,0,framework,python,updated,desc
+platform9-incubator/sortinghat,,https://github.com/platform9-incubator/sortinghat,2,1,framework,python,updated,desc
+gigaquads/ravel,"Ravel is a meta-framework for Python. It's an abstract architecture that allows the same business logic to be executed as completely different types of applications without code modifications -- as endpoints in a REST API, CLI commands, REPL commands, gRPC endpoints, Pygame event handlers, the list goes on. There's a lot more.",https://github.com/gigaquads/ravel,2,0,framework,python,updated,desc
+VishalShenoy2002/JEN,This is a python package which has different types of assistant which will help you make your own assistant.,https://github.com/VishalShenoy2002/JEN,2,0,framework,python,updated,desc
+IM-Cloud-Spain-Connectors/python-connect-devops-fulfillment-framework,Framework to ease and speedup the development of a Connect DevOps Fulfillment Extension. ,https://github.com/IM-Cloud-Spain-Connectors/python-connect-devops-fulfillment-framework,2,0,framework,python,updated,desc
+6r17/madframe,Customizable Asynchronous State-Machine,https://github.com/6r17/madframe,2,0,framework,python,updated,desc
+PyWebBuilders/bframe,A simple python web server frame,https://github.com/PyWebBuilders/bframe,2,1,framework,python,updated,desc
+YaSargis/jelata-framework,Jelata Framework,https://github.com/YaSargis/jelata-framework,2,0,framework,python,updated,desc
+cgn170/bonfire,IT Cloud Operations Simplified,https://github.com/cgn170/bonfire,2,0,framework,python,updated,desc
+DavidDB33/drling,Deep reinforcement learning algorithms for Researchers LearnING,https://github.com/DavidDB33/drling,2,0,framework,python,updated,desc
+a3r0id/sonoma," A tiny, programmable http server crafting framework that is built with security and simplicity in mind.",https://github.com/a3r0id/sonoma,2,0,framework,python,updated,desc
+penaagp-dev/pena-rest-engine,Pena Rest Ful API Engine,https://github.com/penaagp-dev/pena-rest-engine,2,0,framework,python,updated,desc
+asynched/fastlify,Fastlify is a framework built around Flask for dealing with REST APIs. 🏎,https://github.com/asynched/fastlify,2,0,framework,python,updated,desc
+Rayan25062011/sailor,Sailor Framework,https://github.com/Rayan25062011/sailor,2,0,framework,python,updated,desc
+alfredholmes/CryptoBots,Asynchronous Framework for Binance and FTX,https://github.com/alfredholmes/CryptoBots,2,7,framework,python,updated,desc
+funnygeeker/keiyume,溪梦框架：依赖go-cqhttp运行，简单易用的qq框架，适合入门级开发者～,https://github.com/funnygeeker/keiyume,2,0,framework,python,updated,desc
+Batchuka/PyTRobot,"PyTRobot: A Python framework for building robots in different strategies. It facilitates the creation of robots with complex state logic or in the 'producer-consumer' pattern, offering a set of robust and flexible tools for developers.",https://github.com/Batchuka/PyTRobot,2,1,framework,python,updated,desc
+raiden70/DRF_Commands,DRF_commands is a Django package that helps you to create django rest framework endpoints faster using manage.py.,https://github.com/raiden70/DRF_Commands,2,0,framework,python,updated,desc
+unkn0wnh4ckr/TSUNAMI,a python script for either getting info or ddosing (DEAD SCRIPT),https://github.com/unkn0wnh4ckr/TSUNAMI,2,3,framework,python,updated,desc
+Deeplodocus/deeplodocus,The deep platform keeping your head above water,https://github.com/Deeplodocus/deeplodocus,2,4,framework,python,updated,desc
+keremkoseoglu/databus,Async middleware SDK,https://github.com/keremkoseoglu/databus,2,1,framework,python,updated,desc
+ceppelli/magic_foundation,Minimalistic library that simplifies the adoption of async/await (asyncio) programming style in a multithreaded application.,https://github.com/ceppelli/magic_foundation,2,0,framework,python,updated,desc
+RamBITS-AI/ArtificialNeuralNetwork,Pyano - A Deep Neural Network Framework,https://github.com/RamBITS-AI/ArtificialNeuralNetwork,2,1,framework,python,updated,desc
+gabrielmrts/rise,A Python HTTP Rest Framework,https://github.com/gabrielmrts/rise,2,0,framework,python,updated,desc
+Slenderman00/PyTor,PyTor is a simple framework that enables the automatic creation of new Tor sessions. PyTor is created with asynchronous opperations in mind.,https://github.com/Slenderman00/PyTor,2,0,framework,python,updated,desc
+francois-rd/accord,Anti-faCtual COmmonsense Reasoning Disentanglement,https://github.com/francois-rd/accord,2,0,framework,python,updated,desc
+PRITHIVSAKTHIUR/Type-Bytes,Dynamic Typed Videos with 'Type Byte',https://github.com/PRITHIVSAKTHIUR/Type-Bytes,2,0,framework,python,updated,desc
+metric-python/metric,"New, eligible and efficient Python3 web application framework",https://github.com/metric-python/metric,2,0,framework,python,updated,desc
+snagarohit/GETorade,A Python micro 🤏 framework built on top of flask🍾 to get you to ship near-production quality APIs ASAP for your prototypes. Built by a backend engineer for backend and non-backend engineers alike.,https://github.com/snagarohit/GETorade,2,3,framework,python,updated,desc
+wariored/dorton,A Python lightweight and fast framework,https://github.com/wariored/dorton,2,0,framework,python,updated,desc
+theRealProHacker/Positron,With Positron you can create your own desktop app using just HTML and Python,https://github.com/theRealProHacker/Positron,2,1,framework,python,updated,desc
+Almas-Ali/backkr,A backend framework the web,https://github.com/Almas-Ali/backkr,2,0,framework,python,updated,desc
+Onyx-AI-Studio/morpher,Dynamic agent that can modify the plan of execution on the fly.,https://github.com/Onyx-AI-Studio/morpher,2,0,framework,python,updated,desc
+seijihirao/apys,Simple restful python framework to develop back-end apis!,https://github.com/seijihirao/apys,2,1,framework,python,updated,desc
+pspeter/pythovolve,"A modular, object-oriented framework for genetic algorithms for Python 3.6+",https://github.com/pspeter/pythovolve,2,0,framework,python,updated,desc
+xujiachang1024/NumPy-based-Neural-Network,A highly modular design and implementation of fully-connected feedforward neural network structured on NumPy matrices,https://github.com/xujiachang1024/NumPy-based-Neural-Network,2,0,framework,python,updated,desc
+jimtheplant/frazzl,Making graphql microservices has never been this easy.,https://github.com/jimtheplant/frazzl,2,0,framework,python,updated,desc
+tkamenoko/spangle,Small ASGI framework for modern web.,https://github.com/tkamenoko/spangle,2,0,framework,python,updated,desc
+malivix/Anilius,A high performance grpc micro framework based on python,https://github.com/malivix/Anilius,2,1,framework,python,updated,desc
+cheetahbyte/radish,a simple router in Python,https://github.com/cheetahbyte/radish,2,0,framework,python,updated,desc
+abhimishra91/hackathon-framework,Framework that will be used for Data Hackathon,https://github.com/abhimishra91/hackathon-framework,2,1,framework,python,updated,desc
+maximiliancw/crawlio,Asynchronous web crawling and scraping with Python for minimalists,https://github.com/maximiliancw/crawlio,2,0,framework,python,updated,desc
+Leo-Lsc/AutoData,An Automated Framework to Construct Datasets for Assessing Knowledge Editing or Multi-Hop Reasoning Capability of Language Models.,https://github.com/Leo-Lsc/AutoData,2,0,framework,python,updated,desc
+a3r0id/TrillerPy,Unofficial Python wrapper for automating a Triller account (Triller.co).,https://github.com/a3r0id/TrillerPy,2,0,framework,python,updated,desc
+BertilBraun/Google-Calendar-Analysis,A simple python project to analyze your Google Calendar events.,https://github.com/BertilBraun/Google-Calendar-Analysis,2,1,framework,python,updated,desc
+mo-shahab/vershachi-unlearning,A framework for machine unlearning. ,https://github.com/mo-shahab/vershachi-unlearning,2,1,framework,python,updated,desc
+antonyfuentes/python-automation-framework,This is a testing automation framework written in Python,https://github.com/antonyfuentes/python-automation-framework,2,5,framework,python,updated,desc
+Pericena/GmailHack," Ataque de fuerza bruta Este método se trata de prueba y error, donde el atacante, provisto con algún software automatizado, puede probar miles de combinaciones posibles de diferentes caracteres y longitudes para tratar de abrir la autenticación del usuario, hasta que da con la contraseña correcta.",https://github.com/Pericena/GmailHack,2,1,framework,python,updated,desc
+cplab/sapicore,A PyTorch-based framework for neuromorphic modeling.,https://github.com/cplab/sapicore,2,2,framework,python,updated,desc
+avramdj/minigrad,Automatic analytic tensor differentiation engine with a deep learning library on top.,https://github.com/avramdj/minigrad,2,0,framework,python,updated,desc
+skitsanos/flask-dynamic-routes,Showcasing dynamically loaded API route handlers in Flask,https://github.com/skitsanos/flask-dynamic-routes,2,0,framework,python,updated,desc
+theposeidonas/nexlipy,Python based services framework for Linux servers. ,https://github.com/theposeidonas/nexlipy,2,0,framework,python,updated,desc
+CarlosFdez/pytmi,A simple twitch messaging interface parser,https://github.com/CarlosFdez/pytmi,2,0,framework,python,updated,desc
+Nick233333/flask-admin,https://flask.hellocode.name,https://github.com/Nick233333/flask-admin,2,1,framework,python,updated,desc
+oneTimePad/advantage,A framework for making RL easy! ,https://github.com/oneTimePad/advantage,2,0,framework,python,updated,desc
+neuron-party/torch-rl,flexible reinforcement learning framework that allows easy mixing and matching of reinforcement learning algorithms and environments,https://github.com/neuron-party/torch-rl,2,0,framework,python,updated,desc
+byoso/flask_for_desktop,"Create desktop applications with flask, and this library",https://github.com/byoso/flask_for_desktop,2,0,framework,python,updated,desc
+william-herring/crest,Fast web made simple,https://github.com/william-herring/crest,2,0,framework,python,updated,desc
+frootlab/vivid,Next generation framework for collaborative data science and automated machine learning,https://github.com/frootlab/vivid,2,0,framework,python,updated,desc
+VILHALVA/REMOVEDOR-DE-FUNDO-DE-IMAGEM,🎈USE ESSE APP PARA REMOVER O FUNDO DAS SUAS FOTOS.,https://github.com/VILHALVA/REMOVEDOR-DE-FUNDO-DE-IMAGEM,2,0,framework,python,updated,desc
+VILHALVA/MEMORY-GAME,"🎮ESTE É UM BOT DE TELEGRAM QUE OFERECE AOS USUÁRIOS ACESSO A DIVERSOS JOGOS, ATRAVÉS DO RECURSO DE MINI-APPS.",https://github.com/VILHALVA/MEMORY-GAME,2,0,framework,python,updated,desc
+homeinfogmbh/peeweeplus,Practical extensions for the peewee ORM framework.,https://github.com/homeinfogmbh/peeweeplus,2,1,framework,python,updated,desc
+neurocode-ai/leaf,"Minimal deep learning framework for Python, accelerated with Rust.",https://github.com/neurocode-ai/leaf,2,0,framework,python,updated,desc
+st1vms/selgym,Selenium scripting utility library for building scrapers with geckodriver and Firefox,https://github.com/st1vms/selgym,2,2,framework,python,updated,desc
+ahammadnafiz/FizTorch,Toy Implementation of PyTorch,https://github.com/ahammadnafiz/FizTorch,2,0,framework,python,updated,desc
+venopyX/apispark,"A lightweight Python mini-framework for building fast, scalable APIs.",https://github.com/venopyX/apispark,2,0,framework,python,updated,desc
+cardosolucas/ubenchmark,A framework for Machine Learning benchmarks,https://github.com/cardosolucas/ubenchmark,2,0,framework,python,updated,desc
+usr2r00t/framework_python,This repository will content all my Python scripts,https://github.com/usr2r00t/framework_python,2,0,framework,python,updated,desc
+TomAmpiath/Xg,A cross platform GUI framework for python3,https://github.com/TomAmpiath/Xg,2,0,framework,python,updated,desc
+rgs2151/NeuralJAXwork,NeuralJAXwork: GPU Accelerated Lightweight ML Framework from Scratch with JAX,https://github.com/rgs2151/NeuralJAXwork,2,0,framework,python,updated,desc
+canary-for-cognition/multimodal-ml-framework,An extensible framework to experiment with traditional machine learning algorithms on multiple data modalities for binary classification.,https://github.com/canary-for-cognition/multimodal-ml-framework,2,1,framework,python,updated,desc
+Markel-Kaluhin/tic-tac-toe,"🛠️ This is Command Line Interface (CLI) framework that supports an unlimited hierarchy of nested menus. It also includes an example implementation of the classic tic-tac-toe game, showcasing how to utilize the framework. 🎮",https://github.com/Markel-Kaluhin/tic-tac-toe,2,0,framework,python,updated,desc
+kockums/bearing,Bearing is a Python Framework for Spatial Computing.,https://github.com/kockums/bearing,2,3,framework,python,updated,desc
+ftnick/ProgramHooks,"A modular Python framework for managing lifecycle hooks in applications. Easily register and execute pre-defined hooks (pre-init, post-init, pre-runtime, post-runtime) from external plugins, enabling flexible and extensible application design. Supports dynamic plugin loading and argument passing.",https://github.com/ftnick/ProgramHooks,2,0,framework,python,updated,desc
+eshleebien/falcon-boilerplate,(WIP) Falcon MVC boilerplate,https://github.com/eshleebien/falcon-boilerplate,2,0,framework,python,updated,desc
+blurHY/ZNBot,A Python framework to build ZeroNet bots,https://github.com/blurHY/ZNBot,2,2,framework,python,updated,desc
+slipnitskaya/exp-runner,exp-runner: Simple and extensible Python framework for data analysis and machine learning experiments ,https://github.com/slipnitskaya/exp-runner,2,0,framework,python,updated,desc
+BeardedManZhao/mathematical-expression-py,Python API concise framework for parsing string mathematical expressions | 用于解析字符串数学表达式的PythonAPI简洁框架,https://github.com/BeardedManZhao/mathematical-expression-py,2,0,framework,python,updated,desc
+telekrex/wart,📕 purely functional interactive fiction framework,https://github.com/telekrex/wart,2,0,framework,python,updated,desc
+chaseruskin/verb,An approachable testing framework for digital hardware,https://github.com/chaseruskin/verb,2,0,framework,python,updated,desc
+PascalKleindienst/experimentum,👨‍🔬🔬Experimentum is a novel data-management framework for running and analyzing computational experiments,https://github.com/PascalKleindienst/experimentum,1,0,framework,python,updated,desc
+moporgic/2048-Framework-Python,Framework for 2048 & 2048-like Games (Python 3),https://github.com/moporgic/2048-Framework-Python,1,1,framework,python,updated,desc
+bderevyaga/WebFrameworkPython3,,https://github.com/bderevyaga/WebFrameworkPython3,1,1,framework,python,updated,desc
+gcouti/pypagAI,A simple framework for Question Answering problem,https://github.com/gcouti/pypagAI,1,0,framework,python,updated,desc
+Ming-Lei/mwebapp,mweb.py,https://github.com/Ming-Lei/mwebapp,1,1,framework,python,updated,desc
+ceshm/kame,Simple rest framework for tortoise-orm and starlette,https://github.com/ceshm/kame,1,0,framework,python,updated,desc
+RxLaboratory/DuKRIF,The Duduf Krita Framework - Shared library used in Duduf's Krita Plugins,https://github.com/RxLaboratory/DuKRIF,1,1,framework,python,updated,desc
+imgurbot12/cli,"A highly configurable, dynamic, fast, and easy solution to managing a command-line application.",https://github.com/imgurbot12/cli,1,0,framework,python,updated,desc
+theg4sh/userver-gdb-pp,Pretty-printers for debugging userver-framework,https://github.com/theg4sh/userver-gdb-pp,1,1,framework,python,updated,desc
+MadExploits/Framework-separator,PHP Framework separator by Mr.Mad,https://github.com/MadExploits/Framework-separator,1,0,framework,python,updated,desc
+jeff0282/webgoose,A Static-Site Generator Framework with Compartmentalisation at heart,https://github.com/jeff0282/webgoose,1,0,framework,python,updated,desc
+sql-hkr/offline-rl-research,オフライン強化学習用フレームワーク及びSCQL，SCQL+Dの実装,https://github.com/sql-hkr/offline-rl-research,1,0,framework,python,updated,desc
+astridot/vexilpy,"Hosting local servers easily, smooth as butter.",https://github.com/astridot/vexilpy,1,0,framework,python,updated,desc
+adammcdonagh/open-task-framework,"An extensible Python framework integration solution for automating execution of commands, chaining API calls and transferring files between hosts or remote services",https://github.com/adammcdonagh/open-task-framework,1,0,framework,python,updated,desc
+pkulev/xo1,Python framework for creating terminal applications.,https://github.com/pkulev/xo1,1,0,framework,python,updated,desc
+Den4enko/PackFramework,The modpack base for Minecraft,https://github.com/Den4enko/PackFramework,1,0,framework,python,updated,desc
+MacHu-GWU/crawlib-project,tool set for crawler project.,https://github.com/MacHu-GWU/crawlib-project,1,1,framework,python,updated,desc
+Nimitkothari/Machine-learning-framework,,https://github.com/Nimitkothari/Machine-learning-framework,1,0,framework,python,updated,desc
+ThomasKenyeres/GTKML-GTK-Markup-Language-,Smart framework for rapid desktop development in Python and GTK+ 3,https://github.com/ThomasKenyeres/GTKML-GTK-Markup-Language-,1,0,framework,python,updated,desc
+fagp/netframework,,https://github.com/fagp/netframework,1,0,framework,python,updated,desc
+BPChain/scenario-orchestration-service,Orchestrate a Scenario provided by the middleware. This will be done by the 'master' node of a blockchain.,https://github.com/BPChain/scenario-orchestration-service,1,0,framework,python,updated,desc
+nint8835-archive/NintbotForDiscord,A modular bot for Discord servers,https://github.com/nint8835-archive/NintbotForDiscord,1,0,framework,python,updated,desc
+VILHALVA/CRUD-COM-FLET,👨‍🏫CRUD DE DADOS COM FLET E SQLITE.,https://github.com/VILHALVA/CRUD-COM-FLET,1,0,framework,python,updated,desc
+yitian-reevo/skyhook,一个轻量的、稳定的、可扩展的爬虫框架,https://github.com/yitian-reevo/skyhook,1,2,framework,python,updated,desc
+VILHALVA/TKINTER-TOOLKIT,"👨‍🏫APLICAÇÃO COM CUSTOMTKINTER E JSON, QUE CONSOME A API DO GITHUB PARA OBTER INFORMAÇÕES ADICIONAIS SOBRE OS PACOTES LISTADOS NO ARQUIVO JSON DE BANCO DE DADOS.",https://github.com/VILHALVA/TKINTER-TOOLKIT,1,0,framework,python,updated,desc
+Siren-Project/Siren-Provisioner,A VNF provisioner and device manager for Siren.,https://github.com/Siren-Project/Siren-Provisioner,1,2,framework,python,updated,desc
+victorcifuentes/saf_migrate,"Just a ugly script to remove some Swing Application Framework dependencies (resources like Strings, Icons, Fonts, Color, Actions)",https://github.com/victorcifuentes/saf_migrate,1,0,framework,python,updated,desc
+chrizcjohn/geek-bud-mobile-comparison,A  smartphone comparison website build using python django framework,https://github.com/chrizcjohn/geek-bud-mobile-comparison,1,0,framework,python,updated,desc
+DevMystical/SSH-ControlPanel,Easy to use framework which allows you to give your projects an SSH based interface.,https://github.com/DevMystical/SSH-ControlPanel,1,0,framework,python,updated,desc
+kashfifahim/CrossComputeTutorials,A series of tutorials for getting started with the CrossCompute Automation Framework,https://github.com/kashfifahim/CrossComputeTutorials,1,1,framework,python,updated,desc
+moayad-star/wordlist,Now you can create a perfect password list,https://github.com/moayad-star/wordlist,1,0,framework,python,updated,desc
+ElazzouziHassan/FASTAPI,FsatAPI Tuto : FastAPI | Python | HTTP Requests | API,https://github.com/ElazzouziHassan/FASTAPI,1,0,framework,python,updated,desc
+bliepp/bottle-restx,A simple resource based REST API extension for the bottle framework. Loosely inspired by flask-restx.,https://github.com/bliepp/bottle-restx,1,1,framework,python,updated,desc
+zzkt/frameworkinfo,"Show information about hardware, BIOS, CPU and kernel version for framework laptop.",https://github.com/zzkt/frameworkinfo,1,0,framework,python,updated,desc
+Fel-Fel/felfel-framework,"Fel Fel Framework or Fel Fel shell 🐚 . \n is a powerfull framework for creating shells ( bind shell , tcp shell , udp shell , reverse shell )",https://github.com/Fel-Fel/felfel-framework,1,0,framework,python,updated,desc
+Holence/DTPySide,A PySide framework for constructing customizable GUI software.,https://github.com/Holence/DTPySide,1,0,framework,python,updated,desc
+matthewmuccio/FlaskSimpleAPI,"Building a simple, original API using the web application framework Flask.",https://github.com/matthewmuccio/FlaskSimpleAPI,1,0,framework,python,updated,desc
+MKuranowski/Impuls,Python framework for processing static public transportation data,https://github.com/MKuranowski/Impuls,1,0,framework,python,updated,desc
+cleve/pulzar,Scalable key-value database and manage/schedule job processes distributed,https://github.com/cleve/pulzar,1,0,framework,python,updated,desc
+FutureFOSS/FuturePython,Future Python Framework,https://github.com/FutureFOSS/FuturePython,1,0,framework,python,updated,desc
+lukas-sgx/LupaBot,LupaBot is a bot,https://github.com/lukas-sgx/LupaBot,1,0,framework,python,updated,desc
+vishInAi/Python_Revisit,"This repository covers core Python concepts, mathematical foundations for AI/ML, and small-scale projects. It includes clear explanations, practical examples, and implementations using frameworks like NumPy, Pandas, and Matplotlib. Contributions and feedback are welcome as I progress in my learning journey.",https://github.com/vishInAi/Python_Revisit,1,0,framework,python,updated,desc
+conradojuliosisnero/practice-Api,"Estoy construyendo una aplicación utilizando FastAPI, que servirá como un espacio de práctica para mí. Esta aplicación me permitirá explorar y aprender sobre el desarrollo web en Python mientras construyo una API rápida y eficiente",https://github.com/conradojuliosisnero/practice-Api,1,0,framework,python,updated,desc
+VILHALVA/ROBO-ED-NO-TELEGRAM,🤖BOT DO TELEGRAM QUE CONVERSA NO GRUPO SOBRE UMA VARIEDADE DE TÓPICOS.,https://github.com/VILHALVA/ROBO-ED-NO-TELEGRAM,1,0,framework,python,updated,desc
+AverageMisesian/Easy_GUI,,https://github.com/AverageMisesian/Easy_GUI,1,0,framework,python,updated,desc
+adriaciurana/scratch-network,Github del proyecto Scratch Network del blog: http://www.bigneuralvision.com/,https://github.com/adriaciurana/scratch-network,1,0,framework,python,updated,desc
+ForestJ2/gruv_socks,Easy to use library that abstracts the work away needed to transport and reconstruct messages over TCP.,https://github.com/ForestJ2/gruv_socks,1,0,framework,python,updated,desc
