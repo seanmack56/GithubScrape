@@ -4,17 +4,9 @@ import time
 import csv
 
 def search_repos(query, topic, language_searched, max_results=1000, filename="repo_info.csv", start_page=1, sort_by="stars", order="desc"):
-    """Searches GitHub repositories based on a query string and writes results to a CSV file.
-
-    Args:
-        query: The search query string.
-        max_results: The maximum number of results to fetch.
-        filename: The name of the output file.
-        start_page: The page number to start the search from.
-    """
 
     url = "https://api.github.com/search/repositories"
-    headers = {"Authorization": f"token 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"}
+    headers = {"Authorization": f"token YOUR_TOKEN_HERE"}
     params = {"q": query, "per_page": 100, "page": start_page}
 
     with open(filename, 'a', newline='', encoding="utf-8") as csvfile:
@@ -83,9 +75,9 @@ def search_repos(query, topic, language_searched, max_results=1000, filename="re
                         continue  # Skip to the next page
 
 # Example usage:
-topic = "framework"
+topic = "YOUR TOPIC HERE"
 language_searched = "python"
-query = "language:python topic:framework"
+query = "language:python topic:YOUR_TOPIC_HERE"
 start_page = 00  # Start from page 1
 search_repos(query, topic, language_searched, max_results=1000, start_page=start_page)
 
@@ -101,4 +93,3 @@ framework - done by stars(desc+asc) and most recently updated (updated desc)
 
 
 """
-#Note to self, github has hard limit of only being able to fetch first 1000 results query, add this to limitations
