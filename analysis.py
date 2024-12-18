@@ -30,9 +30,7 @@ def get_raw_metrics(repo_dir):
                 check=True.as_integer_ratio,
                 timeout = 30
             )
-            #print(result.stdout)
-            #print(json.loads(result.stdout))
-
+            
             return json.loads(result.stdout)
         except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as e:
             print(f"Error getting Raw metrics for {repo_dir}: {e.stderr}")
@@ -50,9 +48,6 @@ def get_halstead_metrics(repo_dir):
             check=True,
             timeout = 30
         )
-        
-        # Print the raw JSON output for inspection
-        #print(result.stdout)
 
         return json.loads(result.stdout)
     except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as e:
@@ -136,7 +131,6 @@ def process_repositories(csv_file):
                 multi_vals = []
                 #access and store metrics to lists
                 for file_title, values in raw_data.items():
-                    #print(file_title)
                     print(values)
                     if 'sloc' in values:
                         sloc_vals.append(values['sloc'])
@@ -171,14 +165,8 @@ def process_repositories(csv_file):
                 avg_blank = total_blank/len(blank_vals)
                 avg_multi = total_multi/len(multi_vals)
 
-
-            #print(raw_data)
             # Request Radon Halstead metrics
-             
             halstead_data = get_halstead_metrics(repo_dir)
-            #print(halstead_data)
-            #print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            #print(halstead_data)
 
             hal_volumes = []
             hal_diff = []
@@ -244,8 +232,6 @@ def process_repositories(csv_file):
                 avg_mi = sum(maintainability_scores) / len(maintainability_scores) if maintainability_scores else 0
             else:
                 avg_mi = 'Error'
-            na_val = 'N/A'
-            
 
             # Update the dataframe with the new metrics
             new_row = {
@@ -273,37 +259,37 @@ def process_repositories(csv_file):
             cc_grade = "A" if avg_cc < 5 else "B" if avg_cc < 10 else "C"
             repos_df.at[index, 'cc_grade'] = cc_grade
         else:
+            na_val = 'N/A'
             # Add placeholders if no data is found
-            repos_df.at[index, 'avg_cc'] = 'N/A'
-            repos_df.at[index, 'total_cc'] = 'N/A'
-            repos_df.at[index, 'Avg_halstead_volume'] = 'N/A'
-            repos_df.at[index, 'avg_halstead_difficulty'] = 'N/A'
-            repos_df.at[index, 'avg_halstead_effort'] = 'N/A'
-            repos_df.at[index, 'avg_halstead_time'] = 'N/A'
-            repos_df.at[index, 'avg_halstead_bugs'] = 'N/A'
-            repos_df.at[index, 'avg_sloc'] = 'N/A'
-            repos_df.at[index, 'avg_lloc'] = 'N/A'
-            repos_df.at[index, 'avg_comments'] = 'N/A'
-            repos_df.at[index, 'avg_blank_lines'] = 'N/A'
-            repos_df.at[index, 'maintainability_index'] = 'N/A'
-            repos_df.at[index, 'cc_grade'] = 'N/A'
+            new_row = {
+                "URL": na_val,
+                "Repository": na_val,
+                "Stars": na_val,
+                "Forks": na_val,
+                "Search_by": na_val,
+                "Search_order": na_val,
+                "avg_cc": na_val,
+                "total_cc": na_val,
+                "Avg_halstead_volume": na_val,
+                "avg_halstead_difficulty": na_val,
+                "avg_halstead_effort": na_val,
+                "avg_halstead_time": na_val,
+                "avg_halstead_bugs": na_val,
+                "files_ignored": na_val,
+                "avg_sloc": na_val,
+                "avg_lloc": na_val,
+                "avg_comments": na_val,
+                "avg_blank_lines": na_val,
+                "maintainability_index": na_val
+            }
         
-        #output_file = "updated_repositories.csv"
-        #repos_df.to_csv(output_file, index=False)
-        #print(f"Updated data saved to {output_file}")
+
         with open("True_Updated_repo_calcs.csv", 'a', newline='', encoding="utf-8") as f:
             writer = csv.writer(f)
             writer.writerow(new_row.values())
 
-
-    # Output the updated data back to a new CSV file
-    #output_file = "updated_repositories.csv"
-    #repos_df.to_csv(output_file, index=False)
-    #print(f"Updated data saved to {output_file}")
-
-
 # Usage
-csv_file = "no_duplicates1.csv"  # Replace with your actual CSV file path
+csv_file = "MY_CSV.csv"  # Replace with your actual CSV file path
 process_repositories(csv_file)
 
 
